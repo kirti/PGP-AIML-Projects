@@ -1,0 +1,1899 @@
+order_id,customer_id,restaurant_name,cuisine_type,cost_of_the_order,day_of_the_week,rating,food_preparation_time,delivery_time
+1477147,101001,Restaurant_34,Italian,15.45,Weekday,4,21,22
+1477148,100680,Restaurant_113,Italian,23.43,Weekday,4,20,23
+1477149,100058,Restaurant_34,Mexican,22.58,Weekday,Not given,21,25
+1477150,101050,Restaurant_175,American,21.41,Weekend,Not given,34,20
+1477151,100881,Restaurant_71,Thai,24.29,Weekend,5,32,28
+1477152,100447,Restaurant_87,Indian,12.5,Weekday,Not given,35,15
+1477153,100066,Restaurant_49,Chinese,7.09,Weekday,4,24,21
+1477154,101068,Restaurant_77,Chinese,8.16,Weekend,Not given,28,23
+1477155,101121,Restaurant_121,Chinese,11.42,Weekday,Not given,28,25
+1477156,101012,Restaurant_140,American,19.95,Weekday,5,21,30
+1477157,100227,Restaurant_140,Indian,30.47,Weekday,Not given,21,16
+1477158,100774,Restaurant_105,Middle Eastern,26.17,Weekday,5,22,29
+1477159,100679,Restaurant_155,American,28.88,Weekend,5,26,17
+1477160,100601,Restaurant_143,American,15.33,Weekend,5,30,18
+1477161,100379,Restaurant_140,Indian,16.99,Weekday,Not given,22,21
+1477162,100709,Restaurant_10,French,16.65,Weekday,5,20,26
+1477163,100307,Restaurant_2,Chinese,10.41,Weekday,5,33,18
+1477164,100779,Restaurant_39,Italian,6.36,Weekend,Not given,33,24
+1477165,100504,Restaurant_121,Indian,22.75,Weekend,5,33,20
+1477166,100268,Restaurant_70,Chinese,35.08,Weekend,5,25,28
+1477167,100008,Restaurant_70,American,9.63,Weekend,5,22,17
+1477168,100508,Restaurant_155,Thai,5.91,Weekday,5,20,31
+1477169,100476,Restaurant_155,Indian,28.59,Weekday,4,33,25
+1477170,100164,Restaurant_155,Indian,12.29,Weekday,5,35,24
+1477171,100485,Restaurant_54,Thai,30.14,Weekend,Not given,32,24
+1477172,101096,Restaurant_127,Japanese,26.25,Weekday,Not given,23,24
+1477173,100567,Restaurant_51,Chinese,33.73,Weekday,5,32,17
+1477174,100905,Restaurant_35,Italian,17.12,Weekday,5,20,29
+1477175,100559,Restaurant_35,American,24.95,Weekday,4,20,31
+1477176,100238,Restaurant_56,American,18.85,Weekday,4,31,32
+1477177,101128,Restaurant_70,Japanese,23.98,Weekday,5,21,26
+1477178,100554,Restaurant_151,Middle Eastern,18.38,Weekday,5,29,19
+1477179,100828,Restaurant_24,Korean,10.31,Weekday,Not given,27,30
+1477180,100468,Restaurant_135,Indian,20.18,Weekday,5,21,29
+1477181,100386,Restaurant_93,Chinese,20.82,Weekday,5,30,29
+1477182,100775,Restaurant_52,American,29.55,Weekend,Not given,21,20
+1477183,100848,Restaurant_82,French,27.23,Weekday,3,34,26
+1477184,100387,Restaurant_53,Indian,25.01,Weekday,5,30,16
+1477185,100877,Restaurant_113,Indian,7.98,Weekend,3,30,23
+1477186,100259,Restaurant_70,Thai,26.77,Weekday,5,35,18
+1477187,100283,Restaurant_34,Japanese,19.95,Weekend,Not given,29,19
+1477188,100040,Restaurant_21,French,32.13,Weekday,4,29,22
+1477189,100486,Restaurant_95,American,32.93,Weekday,Not given,27,24
+1477190,100929,Restaurant_155,Thai,6.18,Weekday,Not given,31,21
+1477191,100220,Restaurant_56,Middle Eastern,29.86,Weekday,Not given,25,28
+1477192,101153,Restaurant_135,Chinese,5.64,Weekday,Not given,35,19
+1477193,101015,Restaurant_120,Indian,15.83,Weekday,4,31,30
+1477194,101024,Restaurant_161,Chinese,21.25,Weekend,5,30,29
+1477195,100613,Restaurant_145,Korean,9.05,Weekday,4,23,19
+1477196,100928,Restaurant_105,American,27.56,Weekend,3,22,17
+1477197,100688,Restaurant_119,Indian,4.73,Weekday,Not given,20,24
+1477198,100613,Restaurant_155,American,9.69,Weekend,5,30,19
+1477199,100260,Restaurant_70,Japanese,22.44,Weekday,Not given,22,29
+1477200,100990,Restaurant_54,American,26.57,Weekday,Not given,31,32
+1477201,100966,Restaurant_2,Chinese,32.83,Weekday,Not given,33,22
+1477202,100366,Restaurant_148,Mexican,26.3,Weekday,Not given,28,16
+1477203,100544,Restaurant_141,Mediterranean,25.25,Weekend,5,24,22
+1477204,100649,Restaurant_15,Chinese,16.67,Weekday,5,32,22
+1477205,100814,Restaurant_105,American,4.51,Weekday,5,25,18
+1477206,101040,Restaurant_75,Thai,8.19,Weekday,5,24,32
+1477207,101153,Restaurant_23,Mexican,21.01,Weekday,4,20,15
+1477208,100575,Restaurant_179,Mediterranean,25.36,Weekend,Not given,29,29
+1477209,101133,Restaurant_39,American,17.39,Weekend,Not given,20,32
+1477210,101013,Restaurant_12,Indian,27.08,Weekend,4,23,26
+1477211,100670,Restaurant_113,Chinese,20.62,Weekday,5,35,15
+1477212,100269,Restaurant_137,American,6.77,Weekday,5,34,21
+1477213,101186,Restaurant_4,Japanese,10.41,Weekend,5,22,15
+1477214,100924,Restaurant_120,Indian,30.46,Weekday,5,30,21
+1477215,101126,Restaurant_93,Thai,26.9,Weekend,4,27,16
+1477216,100247,Restaurant_14,Chinese,32.15,Weekend,5,31,21
+1477217,100131,Restaurant_35,Italian,8.11,Weekend,5,31,27
+1477218,100353,Restaurant_105,Italian,35.11,Weekday,5,26,19
+1477219,100196,Restaurant_53,Vietnamese,10.95,Weekday,3,34,15
+1477220,100930,Restaurant_163,Chinese,4.83,Weekend,4,30,15
+1477221,101022,Restaurant_143,Chinese,35.33,Weekday,4,34,32
+1477222,100645,Restaurant_179,Italian,13.17,Weekday,4,26,15
+1477223,100227,Restaurant_51,Indian,25.14,Weekday,Not given,34,19
+1477224,100701,Restaurant_175,Chinese,9.94,Weekend,5,27,23
+1477225,100265,Restaurant_70,Mediterranean,22.42,Weekday,4,33,26
+1477226,100646,Restaurant_56,Chinese,32.44,Weekday,Not given,29,23
+1477227,100211,Restaurant_9,Mediterranean,14.38,Weekday,4,26,32
+1477228,100943,Restaurant_10,American,25.21,Weekday,Not given,29,25
+1477229,100457,Restaurant_127,Japanese,10.28,Weekend,5,21,15
+1477230,100725,Restaurant_74,Mediterranean,23.8,Weekday,4,23,24
+1477231,100982,Restaurant_44,American,14.88,Weekday,5,34,16
+1477232,101155,Restaurant_114,Korean,11.0,Weekend,4,30,21
+1477233,100588,Restaurant_51,Italian,14.16,Weekend,5,25,16
+1477234,100476,Restaurant_105,Southern,10.0,Weekday,5,22,20
+1477235,100986,Restaurant_63,Japanese,32.38,Weekday,4,34,24
+1477236,100156,Restaurant_147,Chinese,16.76,Weekday,4,22,23
+1477237,100190,Restaurant_144,Chinese,12.06,Weekday,5,34,22
+1477238,100981,Restaurant_78,Chinese,18.34,Weekend,Not given,25,25
+1477239,100546,Restaurant_60,American,14.39,Weekend,4,20,23
+1477240,100041,Restaurant_63,American,27.5,Weekend,5,33,23
+1477241,100307,Restaurant_141,American,34.52,Weekend,4,35,22
+1477242,100943,Restaurant_55,Italian,18.02,Weekday,Not given,20,29
+1477243,100338,Restaurant_37,French,31.11,Weekday,4,24,16
+1477244,101099,Restaurant_12,American,21.98,Weekend,4,20,15
+1477245,100953,Restaurant_76,American,9.33,Weekday,5,29,23
+1477246,100279,Restaurant_81,Indian,25.84,Weekday,4,27,23
+1477247,101200,Restaurant_151,Chinese,20.36,Weekend,Not given,21,27
+1477248,100896,Restaurant_44,American,24.6,Weekend,3,35,22
+1477249,100273,Restaurant_70,American,32.0,Weekday,5,25,19
+1477250,100837,Restaurant_141,Southern,18.1,Weekday,4,29,17
+1477251,100620,Restaurant_147,French,32.35,Weekday,Not given,29,18
+1477252,100862,Restaurant_70,Italian,27.7,Weekday,5,24,31
+1477253,100931,Restaurant_74,Japanese,19.59,Weekday,Not given,29,30
+1477254,100289,Restaurant_53,Mexican,23.13,Weekday,Not given,31,30
+1477255,100724,Restaurant_162,Japanese,14.54,Weekday,5,31,17
+1477256,100893,Restaurant_23,Japanese,34.9,Weekday,Not given,23,20
+1477257,100272,Restaurant_162,Indian,25.12,Weekday,5,20,15
+1477258,101090,Restaurant_124,Chinese,5.83,Weekday,Not given,33,30
+1477259,100483,Restaurant_93,American,14.58,Weekday,4,33,29
+1477260,100936,Restaurant_4,Italian,23.76,Weekend,4,22,21
+1477261,100248,Restaurant_77,Mediterranean,6.21,Weekday,3,32,16
+1477262,100156,Restaurant_70,Indian,5.21,Weekday,Not given,31,24
+1477263,101071,Restaurant_34,French,18.39,Weekday,5,23,29
+1477264,100454,Restaurant_119,Spanish,14.76,Weekend,4,21,20
+1477265,100201,Restaurant_175,American,18.03,Weekday,5,31,16
+1477266,100124,Restaurant_104,Japanese,12.6,Weekday,5,21,31
+1477267,100001,Restaurant_135,Japanese,9.57,Weekday,5,21,15
+1477268,100968,Restaurant_12,Vietnamese,25.79,Weekday,4,30,15
+1477269,100855,Restaurant_70,Vietnamese,20.39,Weekday,5,20,18
+1477270,100640,Restaurant_21,Japanese,10.66,Weekday,5,29,30
+1477271,100191,Restaurant_114,Chinese,14.36,Weekday,5,21,22
+1477272,100516,Restaurant_163,French,22.78,Weekend,5,25,15
+1477273,100442,Restaurant_121,American,6.7,Weekend,4,22,25
+1477274,100143,Restaurant_12,Thai,9.03,Weekday,Not given,29,31
+1477275,100533,Restaurant_63,Mediterranean,6.74,Weekday,5,24,24
+1477276,100227,Restaurant_97,Italian,29.6,Weekend,Not given,20,26
+1477277,100949,Restaurant_70,Indian,27.75,Weekday,Not given,27,23
+1477278,100460,Restaurant_151,Italian,27.78,Weekday,3,32,21
+1477279,100551,Restaurant_141,Italian,26.63,Weekday,3,23,26
+1477280,100393,Restaurant_114,Chinese,25.18,Weekday,Not given,28,29
+1477281,100845,Restaurant_68,Thai,19.23,Weekend,5,23,22
+1477282,100210,Restaurant_51,Southern,24.34,Weekend,4,33,31
+1477283,101139,Restaurant_16,Southern,5.66,Weekday,Not given,34,19
+1477284,100646,Restaurant_63,American,23.7,Weekday,4,34,28
+1477285,100219,Restaurant_70,Middle Eastern,28.54,Weekday,Not given,34,16
+1477286,100407,Restaurant_122,Thai,19.95,Weekday,5,21,30
+1477287,100888,Restaurant_120,Chinese,15.53,Weekday,Not given,22,31
+1477288,100558,Restaurant_12,American,13.05,Weekday,4,24,17
+1477289,100550,Restaurant_70,Chinese,24.36,Weekend,5,31,15
+1477290,100142,Restaurant_35,Mediterranean,25.91,Weekday,5,29,32
+1477291,100612,Restaurant_34,Indian,31.42,Weekday,4,34,32
+1477292,100501,Restaurant_148,Japanese,15.06,Weekend,Not given,32,18
+1477293,100840,Restaurant_8,Chinese,28.29,Weekend,4,32,29
+1477294,100702,Restaurant_70,Japanese,21.84,Weekday,Not given,33,24
+1477295,100596,Restaurant_35,American,31.78,Weekday,4,25,19
+1477296,100281,Restaurant_155,Italian,20.8,Weekday,5,26,25
+1477297,100424,Restaurant_102,Indian,20.49,Weekday,5,23,21
+1477298,100856,Restaurant_44,American,22.35,Weekday,5,26,19
+1477299,100270,Restaurant_87,French,27.65,Weekend,5,34,26
+1477300,100154,Restaurant_135,Chinese,34.32,Weekday,5,29,29
+1477301,100614,Restaurant_170,Japanese,6.75,Weekday,Not given,22,26
+1477302,100662,Restaurant_43,Italian,6.12,Weekday,Not given,26,18
+1477303,100083,Restaurant_155,Indian,33.48,Weekday,5,23,26
+1477304,100947,Restaurant_162,American,20.86,Weekend,5,32,32
+1477305,100899,Restaurant_157,American,23.5,Weekday,5,32,31
+1477306,100284,Restaurant_117,Mediterranean,19.4,Weekday,4,27,30
+1477307,100980,Restaurant_116,Chinese,7.37,Weekday,5,28,25
+1477308,100173,Restaurant_70,French,28.23,Weekday,5,26,16
+1477309,101087,Restaurant_140,Spanish,27.59,Weekday,Not given,27,30
+1477310,101097,Restaurant_93,Chinese,14.11,Weekday,Not given,27,15
+1477311,100763,Restaurant_122,Chinese,13.95,Weekday,5,21,31
+1477312,100633,Restaurant_70,Japanese,30.39,Weekday,4,28,32
+1477313,100787,Restaurant_135,Korean,6.71,Weekday,5,25,27
+1477314,100943,Restaurant_147,Mediterranean,31.73,Weekday,Not given,30,19
+1477315,101012,Restaurant_34,Mexican,12.41,Weekday,4,23,20
+1477316,100398,Restaurant_151,French,22.82,Weekday,5,34,15
+1477317,101144,Restaurant_94,American,33.43,Weekday,Not given,24,24
+1477318,100934,Restaurant_151,Vietnamese,25.45,Weekday,4,29,19
+1477319,100676,Restaurant_70,Korean,17.29,Weekend,5,24,15
+1477320,100936,Restaurant_70,American,25.8,Weekday,5,26,25
+1477321,100465,Restaurant_157,Chinese,15.11,Weekday,4,33,21
+1477322,100286,Restaurant_51,American,13.05,Weekday,5,28,32
+1477323,100265,Restaurant_151,Chinese,35.31,Weekday,5,26,24
+1477324,100320,Restaurant_81,French,27.7,Weekday,4,28,29
+1477325,100673,Restaurant_89,Italian,24.42,Weekday,5,23,18
+1477326,100820,Restaurant_53,American,15.46,Weekend,Not given,29,30
+1477327,100089,Restaurant_105,Italian,5.99,Weekday,5,33,29
+1477328,100821,Restaurant_54,Vietnamese,5.43,Weekday,5,29,29
+1477329,101001,Restaurant_8,Indian,21.62,Weekday,3,23,26
+1477330,100334,Restaurant_51,Italian,28.05,Weekday,Not given,25,22
+1477331,100222,Restaurant_2,American,21.1,Weekday,Not given,27,22
+1477332,100041,Restaurant_178,Vietnamese,30.48,Weekend,4,33,32
+1477333,100068,Restaurant_173,French,5.5,Weekday,5,28,20
+1477334,100988,Restaurant_70,Chinese,15.82,Weekend,Not given,20,19
+1477335,100514,Restaurant_135,American,11.8,Weekend,Not given,20,16
+1477336,101151,Restaurant_56,American,18.31,Weekday,5,32,26
+1477337,100695,Restaurant_122,American,6.71,Weekday,Not given,27,18
+1477338,101040,Restaurant_141,Indian,33.99,Weekday,5,30,27
+1477339,100477,Restaurant_166,Southern,11.38,Weekday,Not given,26,31
+1477340,101086,Restaurant_70,Mexican,33.01,Weekday,Not given,28,30
+1477341,100881,Restaurant_140,Middle Eastern,17.65,Weekday,3,30,23
+1477342,100432,Restaurant_51,Italian,34.96,Weekday,Not given,22,15
+1477343,100268,Restaurant_179,Japanese,21.61,Weekday,Not given,29,29
+1477344,101059,Restaurant_2,Thai,33.27,Weekend,5,31,26
+1477345,100779,Restaurant_113,American,4.64,Weekday,4,24,19
+1477346,100494,Restaurant_120,Italian,27.62,Weekend,5,22,32
+1477347,100661,Restaurant_127,Indian,32.41,Weekday,5,34,16
+1477348,101013,Restaurant_24,American,8.79,Weekday,Not given,24,18
+1477349,101059,Restaurant_163,Italian,7.44,Weekday,5,29,29
+1477350,100977,Restaurant_35,Mexican,17.61,Weekday,5,20,20
+1477351,100482,Restaurant_115,Spanish,33.36,Weekend,4,33,26
+1477352,100728,Restaurant_44,Mexican,21.25,Weekend,Not given,30,32
+1477353,100480,Restaurant_53,French,20.79,Weekend,5,23,18
+1477354,101089,Restaurant_95,Italian,8.84,Weekday,5,25,15
+1477355,101032,Restaurant_70,French,4.49,Weekday,5,21,29
+1477356,100343,Restaurant_34,Indian,29.54,Weekend,Not given,32,32
+1477357,100332,Restaurant_35,Mediterranean,7.18,Weekend,5,26,28
+1477358,100438,Restaurant_70,Italian,24.08,Weekend,3,27,17
+1477359,100174,Restaurant_140,Indian,32.77,Weekday,5,20,29
+1477360,100559,Restaurant_155,Indian,10.93,Weekday,5,32,19
+1477361,100527,Restaurant_12,Italian,25.05,Weekend,Not given,23,17
+1477362,100659,Restaurant_70,American,6.9,Weekday,5,30,21
+1477363,100026,Restaurant_13,American,23.15,Weekend,4,23,20
+1477364,100820,Restaurant_2,American,9.54,Weekend,5,32,15
+1477365,100605,Restaurant_121,Middle Eastern,27.24,Weekday,4,24,21
+1477366,100406,Restaurant_113,Chinese,13.79,Weekend,4,33,18
+1477367,100232,Restaurant_34,Chinese,18.81,Weekend,5,31,26
+1477368,100533,Restaurant_44,Thai,23.02,Weekday,5,31,32
+1477369,100505,Restaurant_2,Chinese,9.77,Weekend,5,23,23
+1477370,100179,Restaurant_151,Mexican,27.42,Weekday,3,28,18
+1477371,100132,Restaurant_177,American,13.83,Weekend,Not given,26,15
+1477372,100348,Restaurant_29,Korean,24.96,Weekday,4,32,23
+1477373,100540,Restaurant_44,Middle Eastern,9.37,Weekend,4,21,29
+1477374,100772,Restaurant_155,Middle Eastern,25.76,Weekday,5,20,22
+1477375,100076,Restaurant_160,Italian,8.44,Weekday,5,28,29
+1477376,100579,Restaurant_70,Thai,17.63,Weekend,5,20,29
+1477377,100854,Restaurant_9,American,12.12,Weekday,5,25,32
+1477378,100194,Restaurant_8,American,27.62,Weekday,5,35,21
+1477379,101186,Restaurant_105,American,12.58,Weekend,4,34,32
+1477380,100347,Restaurant_70,Indian,31.75,Weekend,4,34,30
+1477381,100951,Restaurant_3,Italian,32.06,Weekday,Not given,21,16
+1477382,101111,Restaurant_108,Mexican,10.55,Weekday,5,35,18
+1477383,100214,Restaurant_2,American,23.46,Weekday,3,23,30
+1477384,100573,Restaurant_141,Italian,7.18,Weekday,Not given,25,17
+1477385,100780,Restaurant_53,Japanese,16.58,Weekday,4,24,16
+1477386,100262,Restaurant_8,Italian,26.54,Weekday,5,35,17
+1477387,100730,Restaurant_108,Thai,24.87,Weekend,5,30,19
+1477388,100283,Restaurant_70,Chinese,23.8,Weekend,5,25,16
+1477389,100362,Restaurant_177,French,13.21,Weekend,5,22,16
+1477390,100441,Restaurant_95,Indian,16.17,Weekday,Not given,24,16
+1477391,100093,Restaurant_51,Chinese,7.66,Weekday,5,21,32
+1477392,100753,Restaurant_131,Chinese,26.72,Weekday,5,26,28
+1477393,100867,Restaurant_51,Indian,20.06,Weekday,Not given,22,29
+1477394,100142,Restaurant_155,French,26.4,Weekday,Not given,20,26
+1477395,100749,Restaurant_68,Italian,12.17,Weekend,4,33,25
+1477396,100653,Restaurant_97,Chinese,14.51,Weekday,Not given,27,25
+1477397,100701,Restaurant_9,Middle Eastern,14.81,Weekday,5,27,21
+1477398,100998,Restaurant_70,Japanese,5.27,Weekday,5,22,26
+1477399,100049,Restaurant_151,Italian,15.02,Weekend,4,32,30
+1477400,100881,Restaurant_141,Mexican,29.32,Weekday,4,26,19
+1477401,101160,Restaurant_44,Chinese,32.23,Weekday,Not given,28,16
+1477402,100555,Restaurant_44,Indian,20.5,Weekday,5,27,30
+1477403,100404,Restaurant_143,Italian,18.56,Weekday,4,22,29
+1477404,100892,Restaurant_161,Spanish,5.42,Weekday,5,34,25
+1477405,100865,Restaurant_13,Mexican,31.67,Weekend,4,32,20
+1477406,100602,Restaurant_72,Mexican,4.87,Weekday,5,21,27
+1477407,100341,Restaurant_56,Indian,33.7,Weekday,5,32,24
+1477408,100704,Restaurant_155,Mediterranean,19.61,Weekday,Not given,29,19
+1477409,100318,Restaurant_12,French,15.05,Weekend,4,35,21
+1477410,100618,Restaurant_39,Italian,33.07,Weekday,4,26,25
+1477411,100382,Restaurant_140,Japanese,5.22,Weekday,5,26,28
+1477412,100233,Restaurant_9,Indian,22.46,Weekend,5,28,30
+1477413,100817,Restaurant_82,Mexican,21.45,Weekend,5,24,32
+1477414,100553,Restaurant_70,Chinese,11.26,Weekend,Not given,23,18
+1477415,100856,Restaurant_56,Mexican,17.74,Weekend,Not given,27,15
+1477416,100819,Restaurant_70,Chinese,24.65,Weekday,4,33,29
+1477417,100183,Restaurant_92,Mediterranean,26.97,Weekday,4,23,28
+1477418,101065,Restaurant_34,Italian,4.49,Weekend,Not given,35,19
+1477419,100397,Restaurant_105,Korean,33.46,Weekday,4,23,18
+1477420,100779,Restaurant_141,Mexican,9.56,Weekday,4,31,27
+1477421,100907,Restaurant_140,Indian,11.7,Weekend,5,33,32
+1477422,100127,Restaurant_34,Mexican,12.62,Weekday,Not given,31,26
+1477423,100001,Restaurant_34,American,5.64,Weekday,4,21,29
+1477424,101192,Restaurant_51,Italian,8.28,Weekday,Not given,32,23
+1477425,100019,Restaurant_63,American,34.99,Weekday,Not given,34,18
+1477426,100584,Restaurant_70,Indian,14.22,Weekday,5,20,19
+1477427,100456,Restaurant_122,Italian,8.04,Weekday,Not given,23,23
+1477428,100957,Restaurant_10,Thai,7.78,Weekday,Not given,26,27
+1477429,101133,Restaurant_4,Chinese,26.73,Weekday,5,31,24
+1477430,100445,Restaurant_70,American,30.91,Weekend,5,35,30
+1477431,100602,Restaurant_128,Italian,12.42,Weekday,5,28,27
+1477432,100103,Restaurant_35,Southern,5.12,Weekend,4,35,18
+1477433,100988,Restaurant_117,Japanese,11.37,Weekday,5,28,27
+1477434,100520,Restaurant_51,Italian,6.22,Weekday,4,31,22
+1477435,101177,Restaurant_155,Mexican,7.67,Weekend,5,29,27
+1477436,100859,Restaurant_155,American,17.82,Weekday,Not given,34,29
+1477437,100174,Restaurant_53,Vietnamese,11.58,Weekend,5,20,27
+1477438,101005,Restaurant_44,Japanese,20.43,Weekday,5,24,19
+1477439,100431,Restaurant_70,Chinese,12.31,Weekend,4,26,20
+1477440,100727,Restaurant_46,Indian,33.57,Weekday,4,32,19
+1477441,100850,Restaurant_122,American,32.5,Weekend,5,26,27
+1477442,100990,Restaurant_147,Korean,22.01,Weekday,5,29,19
+1477443,100639,Restaurant_122,American,15.44,Weekend,5,35,27
+1477444,100420,Restaurant_147,Indian,16.26,Weekday,Not given,25,22
+1477445,100594,Restaurant_70,Chinese,17.21,Weekday,Not given,35,23
+1477446,100485,Restaurant_34,Japanese,26.98,Weekend,4,30,29
+1477447,100412,Restaurant_136,Thai,18.44,Weekday,Not given,29,24
+1477448,100936,Restaurant_63,Japanese,30.98,Weekday,Not given,23,25
+1477449,101108,Restaurant_122,Indian,33.68,Weekday,5,22,19
+1477450,101137,Restaurant_51,Mediterranean,14.86,Weekday,Not given,31,23
+1477451,100332,Restaurant_12,American,21.82,Weekday,Not given,32,25
+1477452,100655,Restaurant_179,Italian,7.41,Weekday,5,28,16
+1477453,100041,Restaurant_34,Chinese,10.67,Weekend,5,34,20
+1477454,100959,Restaurant_179,Vietnamese,17.26,Weekday,5,31,15
+1477455,100105,Restaurant_177,Italian,10.85,Weekday,5,32,17
+1477456,100202,Restaurant_141,Thai,31.59,Weekend,Not given,29,17
+1477457,100450,Restaurant_120,Japanese,9.37,Weekend,4,23,28
+1477458,100910,Restaurant_105,Chinese,18.57,Weekday,Not given,27,19
+1477459,100210,Restaurant_155,Chinese,23.21,Weekday,Not given,32,31
+1477460,100563,Restaurant_52,Chinese,25.88,Weekday,4,20,29
+1477461,101142,Restaurant_76,Italian,16.32,Weekday,3,26,20
+1477462,100713,Restaurant_114,Chinese,31.36,Weekday,5,31,28
+1477463,100771,Restaurant_70,American,22.05,Weekday,5,25,28
+1477464,101108,Restaurant_70,Middle Eastern,18.07,Weekday,3,32,31
+1477465,100454,Restaurant_55,Korean,6.55,Weekday,5,31,22
+1477466,100667,Restaurant_104,Italian,18.85,Weekend,5,20,22
+1477467,100629,Restaurant_155,Italian,29.86,Weekend,Not given,34,23
+1477468,100387,Restaurant_36,American,23.48,Weekday,3,23,25
+1477469,100296,Restaurant_162,Japanese,30.22,Weekday,5,31,27
+1477470,100258,Restaurant_127,French,19.75,Weekday,3,34,27
+1477471,101105,Restaurant_147,American,8.14,Weekend,Not given,33,19
+1477472,100268,Restaurant_102,American,4.89,Weekday,5,24,30
+1477473,100419,Restaurant_140,French,13.85,Weekday,5,30,23
+1477474,100235,Restaurant_2,Indian,26.07,Weekend,Not given,27,17
+1477475,100986,Restaurant_143,American,28.92,Weekend,5,34,19
+1477476,100574,Restaurant_8,Indian,13.62,Weekend,5,23,22
+1477477,100049,Restaurant_155,Chinese,19.81,Weekend,4,22,28
+1477478,101151,Restaurant_179,Italian,17.5,Weekday,Not given,21,17
+1477479,100223,Restaurant_53,Thai,17.17,Weekday,5,23,27
+1477480,100921,Restaurant_39,French,11.63,Weekend,5,30,25
+1477481,100277,Restaurant_140,Italian,8.69,Weekend,5,29,22
+1477482,101131,Restaurant_51,Southern,10.56,Weekday,Not given,33,24
+1477483,100420,Restaurant_155,Italian,6.18,Weekday,5,32,32
+1477484,100611,Restaurant_13,Thai,10.6,Weekday,4,23,32
+1477485,100375,Restaurant_26,Mexican,4.75,Weekend,Not given,32,21
+1477486,100073,Restaurant_178,Mediterranean,23.88,Weekend,5,29,30
+1477487,101054,Restaurant_122,Mediterranean,14.26,Weekday,Not given,24,20
+1477488,100195,Restaurant_152,American,34.58,Weekday,Not given,32,30
+1477489,101180,Restaurant_54,Southern,10.46,Weekday,Not given,26,30
+1477490,101196,Restaurant_122,French,15.17,Weekend,5,28,15
+1477491,100847,Restaurant_113,French,15.54,Weekend,3,21,17
+1477492,101065,Restaurant_113,Chinese,4.73,Weekend,Not given,24,20
+1477493,101087,Restaurant_123,French,30.44,Weekday,Not given,35,18
+1477494,100023,Restaurant_105,Middle Eastern,5.46,Weekday,5,30,18
+1477495,100360,Restaurant_70,Chinese,33.56,Weekday,Not given,29,18
+1477496,101099,Restaurant_51,Korean,32.07,Weekday,5,28,24
+1477497,100560,Restaurant_140,American,21.04,Weekend,5,31,23
+1477498,100672,Restaurant_44,American,21.29,Weekend,4,33,22
+1477499,101142,Restaurant_127,Mexican,24.7,Weekend,Not given,32,31
+1477500,100679,Restaurant_44,Indian,16.45,Weekend,4,22,31
+1477501,100440,Restaurant_116,Indian,24.5,Weekday,4,20,15
+1477502,100933,Restaurant_139,American,5.86,Weekend,Not given,21,28
+1477503,100007,Restaurant_42,Korean,6.14,Weekend,4,33,25
+1477504,100421,Restaurant_12,American,18.62,Weekend,4,25,17
+1477505,100833,Restaurant_27,American,21.48,Weekday,5,35,22
+1477506,100559,Restaurant_113,American,31.94,Weekday,4,24,24
+1477507,101172,Restaurant_154,Indian,7.71,Weekday,Not given,20,31
+1477508,100914,Restaurant_8,Southern,29.92,Weekend,Not given,20,22
+1477509,101007,Restaurant_135,Japanese,10.97,Weekday,4,30,15
+1477510,100126,Restaurant_56,French,16.66,Weekday,Not given,23,21
+1477511,100395,Restaurant_79,American,14.27,Weekday,5,31,23
+1477512,100817,Restaurant_160,Mexican,16.85,Weekday,5,34,26
+1477513,100881,Restaurant_56,Italian,9.13,Weekday,4,23,23
+1477514,100576,Restaurant_76,Mexican,20.05,Weekday,5,34,17
+1477515,100325,Restaurant_2,American,29.27,Weekday,5,25,18
+1477516,100930,Restaurant_12,Japanese,18.13,Weekday,4,25,24
+1477517,100833,Restaurant_51,Mexican,19.65,Weekend,5,35,18
+1477518,101055,Restaurant_3,Thai,30.73,Weekday,5,29,23
+1477519,100837,Restaurant_116,Mexican,26.32,Weekend,4,33,15
+1477520,100926,Restaurant_70,American,19.64,Weekday,4,25,19
+1477521,100443,Restaurant_96,Indian,12.44,Weekday,Not given,20,23
+1477522,100075,Restaurant_35,American,31.85,Weekend,3,29,19
+1477523,100557,Restaurant_53,Middle Eastern,22.32,Weekday,4,28,20
+1477524,101179,Restaurant_121,Indian,11.31,Weekday,Not given,30,22
+1477525,100363,Restaurant_173,American,12.8,Weekday,Not given,26,24
+1477526,100448,Restaurant_9,Korean,29.32,Weekend,5,26,25
+1477527,100262,Restaurant_155,Mexican,5.84,Weekday,5,30,27
+1477528,100125,Restaurant_105,American,35.17,Weekday,3,26,18
+1477529,100911,Restaurant_104,Indian,8.5,Weekday,4,21,25
+1477530,100245,Restaurant_87,Chinese,29.1,Weekday,Not given,21,26
+1477531,100542,Restaurant_12,French,16.68,Weekday,Not given,25,19
+1477532,100485,Restaurant_12,French,19.7,Weekday,4,26,24
+1477533,100122,Restaurant_113,Vietnamese,31.72,Weekday,Not given,22,21
+1477534,100125,Restaurant_56,Mexican,17.25,Weekday,4,32,23
+1477535,100170,Restaurant_158,Italian,21.1,Weekday,5,23,23
+1477536,100124,Restaurant_70,Thai,6.0,Weekend,Not given,33,24
+1477537,101059,Restaurant_33,American,4.54,Weekday,5,31,24
+1477538,101111,Restaurant_135,Mexican,12.04,Weekday,Not given,22,16
+1477539,100646,Restaurant_53,Mexican,25.53,Weekend,Not given,26,18
+1477540,100786,Restaurant_91,American,8.22,Weekday,Not given,26,22
+1477541,100201,Restaurant_128,Italian,7.99,Weekday,4,23,28
+1477542,100369,Restaurant_155,Middle Eastern,17.19,Weekend,4,32,31
+1477543,100797,Restaurant_141,Middle Eastern,24.51,Weekend,5,26,27
+1477544,100077,Restaurant_122,American,26.5,Weekday,5,24,32
+1477545,100059,Restaurant_122,American,9.99,Weekend,3,20,32
+1477546,100431,Restaurant_166,Chinese,6.93,Weekday,Not given,29,27
+1477547,100638,Restaurant_53,Middle Eastern,33.57,Weekday,3,23,22
+1477548,100109,Restaurant_1,American,12.54,Weekday,5,26,26
+1477549,101008,Restaurant_51,Japanese,30.87,Weekend,4,32,15
+1477550,100068,Restaurant_42,American,31.19,Weekday,Not given,35,32
+1477551,101093,Restaurant_121,Indian,28.37,Weekday,4,35,17
+1477552,101189,Restaurant_116,Italian,9.69,Weekday,4,34,26
+1477553,100305,Restaurant_113,Thai,29.9,Weekday,Not given,21,27
+1477554,100674,Restaurant_2,Chinese,28.27,Weekday,3,21,24
+1477555,100365,Restaurant_135,Indian,22.93,Weekday,4,20,29
+1477556,100821,Restaurant_54,Chinese,14.9,Weekday,Not given,21,16
+1477557,100343,Restaurant_121,Japanese,12.59,Weekday,5,29,17
+1477558,100947,Restaurant_102,Middle Eastern,8.24,Weekday,Not given,33,28
+1477559,100899,Restaurant_56,American,20.24,Weekday,5,27,21
+1477560,101133,Restaurant_29,Middle Eastern,22.58,Weekday,5,30,22
+1477561,100762,Restaurant_13,Indian,15.59,Weekday,Not given,27,25
+1477562,100341,Restaurant_151,American,19.18,Weekend,5,27,20
+1477563,100942,Restaurant_158,Italian,15.72,Weekday,Not given,34,25
+1477564,100383,Restaurant_119,American,24.3,Weekday,Not given,35,31
+1477565,101004,Restaurant_14,Japanese,32.35,Weekday,Not given,20,24
+1477566,100300,Restaurant_70,Thai,9.54,Weekday,Not given,20,31
+1477567,100139,Restaurant_135,American,16.27,Weekday,5,31,16
+1477568,100359,Restaurant_140,Mexican,8.83,Weekday,Not given,29,20
+1477569,100836,Restaurant_23,French,23.81,Weekday,5,23,19
+1477570,100483,Restaurant_1,Southern,27.02,Weekday,4,25,18
+1477571,100909,Restaurant_132,Mexican,33.3,Weekday,Not given,27,16
+1477572,101135,Restaurant_63,Korean,13.1,Weekday,5,32,26
+1477573,100866,Restaurant_51,Mexican,33.87,Weekday,4,21,17
+1477574,100139,Restaurant_2,Italian,6.43,Weekday,4,32,20
+1477575,100996,Restaurant_94,Middle Eastern,23.13,Weekday,3,35,28
+1477576,100435,Restaurant_155,Mexican,6.24,Weekday,Not given,22,22
+1477577,100509,Restaurant_170,Mexican,32.12,Weekday,5,25,28
+1477578,100273,Restaurant_105,Mexican,20.86,Weekday,4,29,17
+1477579,101123,Restaurant_89,Middle Eastern,25.18,Weekend,Not given,23,30
+1477580,100104,Restaurant_12,French,30.2,Weekday,4,31,29
+1477581,100762,Restaurant_96,Italian,9.12,Weekday,5,21,21
+1477582,100787,Restaurant_70,Italian,5.66,Weekend,4,26,29
+1477583,100165,Restaurant_113,Mexican,31.66,Weekend,5,23,27
+1477584,100999,Restaurant_70,Indian,14.21,Weekday,5,27,20
+1477585,100520,Restaurant_46,Chinese,8.46,Weekday,Not given,27,29
+1477586,100517,Restaurant_13,French,18.96,Weekend,4,26,31
+1477587,100657,Restaurant_54,Mexican,22.98,Weekend,Not given,29,18
+1477588,100613,Restaurant_13,Italian,5.43,Weekday,Not given,28,28
+1477589,100164,Restaurant_35,American,12.98,Weekday,Not given,23,29
+1477590,100064,Restaurant_179,Chinese,5.48,Weekday,5,26,26
+1477591,101115,Restaurant_71,Southern,17.48,Weekday,4,29,24
+1477592,101141,Restaurant_93,Chinese,32.16,Weekday,5,29,20
+1477593,100267,Restaurant_155,American,34.87,Weekday,Not given,34,23
+1477594,101164,Restaurant_179,Mexican,24.18,Weekday,5,31,16
+1477595,100246,Restaurant_108,Chinese,9.47,Weekend,5,20,18
+1477596,100395,Restaurant_141,American,32.5,Weekday,4,23,23
+1477597,100476,Restaurant_54,Chinese,20.44,Weekday,5,21,29
+1477598,100977,Restaurant_53,Mexican,9.23,Weekend,5,28,27
+1477599,101044,Restaurant_70,Mexican,32.99,Weekend,4,35,22
+1477600,100558,Restaurant_122,Italian,27.91,Weekday,5,24,30
+1477601,101018,Restaurant_123,Italian,27.11,Weekday,5,22,25
+1477602,100883,Restaurant_54,Korean,26.41,Weekday,5,23,24
+1477603,100147,Restaurant_28,Italian,10.67,Weekday,Not given,25,22
+1477604,100666,Restaurant_116,Chinese,11.0,Weekday,4,29,15
+1477605,100620,Restaurant_26,Chinese,25.77,Weekday,4,20,24
+1477606,100820,Restaurant_105,Italian,11.27,Weekday,4,26,32
+1477607,100864,Restaurant_127,Thai,18.04,Weekday,5,27,17
+1477608,100582,Restaurant_128,Chinese,28.67,Weekday,Not given,26,25
+1477609,101023,Restaurant_140,Japanese,28.73,Weekday,5,26,32
+1477610,100695,Restaurant_155,American,18.49,Weekday,3,28,17
+1477611,101126,Restaurant_87,Italian,28.98,Weekday,Not given,32,22
+1477612,100407,Restaurant_135,Thai,30.42,Weekday,Not given,23,28
+1477613,100399,Restaurant_114,Italian,24.73,Weekend,5,33,20
+1477614,100715,Restaurant_35,Indian,11.54,Weekday,5,35,29
+1477615,100704,Restaurant_2,Chinese,12.95,Weekday,Not given,26,28
+1477616,100761,Restaurant_51,Thai,14.21,Weekend,5,28,21
+1477617,100499,Restaurant_70,American,8.08,Weekday,Not given,34,24
+1477618,100974,Restaurant_114,Middle Eastern,12.92,Weekday,Not given,24,29
+1477619,100082,Restaurant_154,Chinese,10.95,Weekday,Not given,21,24
+1477620,100604,Restaurant_35,Middle Eastern,18.56,Weekday,5,34,31
+1477621,100772,Restaurant_26,Italian,32.58,Weekend,Not given,24,31
+1477622,100903,Restaurant_171,Japanese,7.7,Weekday,3,23,26
+1477623,100365,Restaurant_18,Chinese,26.76,Weekday,Not given,27,29
+1477624,100163,Restaurant_79,Mediterranean,25.73,Weekday,5,35,26
+1477625,101072,Restaurant_108,American,7.43,Weekday,5,34,23
+1477626,100511,Restaurant_95,American,33.01,Weekday,5,24,19
+1477627,100116,Restaurant_12,Mexican,22.06,Weekday,5,28,18
+1477628,100941,Restaurant_10,American,15.72,Weekday,4,28,26
+1477629,100337,Restaurant_16,Chinese,27.88,Weekend,Not given,22,30
+1477630,100881,Restaurant_108,Southern,12.43,Weekday,4,32,23
+1477631,100737,Restaurant_95,Vietnamese,25.93,Weekday,Not given,29,17
+1477632,100840,Restaurant_44,Italian,5.7,Weekday,5,34,17
+1477633,100147,Restaurant_117,Southern,30.44,Weekday,5,25,32
+1477634,100443,Restaurant_144,Mexican,18.34,Weekday,5,25,31
+1477635,100837,Restaurant_8,Chinese,24.17,Weekday,5,23,24
+1477636,101037,Restaurant_85,Japanese,11.32,Weekday,Not given,30,16
+1477637,100943,Restaurant_127,Japanese,25.42,Weekday,5,32,25
+1477638,100287,Restaurant_51,Vietnamese,28.36,Weekday,4,29,17
+1477639,100720,Restaurant_53,Chinese,19.11,Weekend,4,22,16
+1477640,101138,Restaurant_114,Japanese,23.58,Weekday,Not given,20,23
+1477641,100480,Restaurant_155,American,18.59,Weekday,5,31,16
+1477642,100022,Restaurant_141,American,32.13,Weekday,5,26,16
+1477643,100683,Restaurant_108,American,19.87,Weekend,5,34,29
+1477644,100906,Restaurant_135,Spanish,30.52,Weekday,4,34,17
+1477645,100320,Restaurant_64,French,29.26,Weekday,5,24,19
+1477646,100126,Restaurant_117,Thai,17.17,Weekend,Not given,33,25
+1477647,100277,Restaurant_76,Mexican,11.59,Weekend,4,29,21
+1477648,100194,Restaurant_35,Chinese,17.03,Weekend,4,34,20
+1477649,100696,Restaurant_128,American,30.03,Weekday,4,26,28
+1477650,100057,Restaurant_102,Chinese,11.51,Weekday,5,20,15
+1477651,101187,Restaurant_63,Italian,20.7,Weekday,4,27,31
+1477652,100019,Restaurant_156,Thai,29.41,Weekend,Not given,22,31
+1477653,100264,Restaurant_2,Mexican,15.41,Weekday,Not given,26,28
+1477654,100794,Restaurant_54,American,24.34,Weekday,Not given,31,24
+1477655,100113,Restaurant_10,American,12.07,Weekday,Not given,22,22
+1477656,100542,Restaurant_140,American,7.85,Weekend,5,33,22
+1477657,100647,Restaurant_128,Italian,29.05,Weekday,5,22,28
+1477658,100579,Restaurant_56,Southern,7.53,Weekday,5,29,21
+1477659,101089,Restaurant_122,Indian,12.87,Weekday,5,28,20
+1477660,100025,Restaurant_70,French,30.93,Weekday,5,32,18
+1477661,100001,Restaurant_140,Mexican,15.19,Weekday,4,21,15
+1477662,100911,Restaurant_74,Italian,34.58,Weekday,3,33,29
+1477663,100141,Restaurant_70,American,34.78,Weekday,Not given,23,29
+1477664,100648,Restaurant_162,Middle Eastern,12.77,Weekday,Not given,25,15
+1477665,100188,Restaurant_51,Thai,5.74,Weekday,Not given,33,17
+1477666,101152,Restaurant_24,American,26.28,Weekday,5,22,19
+1477667,100201,Restaurant_108,Mexican,18.42,Weekday,5,31,19
+1477668,101151,Restaurant_175,Mexican,7.59,Weekday,3,29,18
+1477669,100257,Restaurant_68,Indian,26.36,Weekday,5,33,31
+1477670,100547,Restaurant_12,Southern,5.43,Weekday,5,29,28
+1477671,100194,Restaurant_56,Indian,31.39,Weekday,5,26,22
+1477672,100703,Restaurant_88,Mexican,8.76,Weekday,5,26,16
+1477673,101128,Restaurant_34,American,8.41,Weekend,4,34,22
+1477674,100802,Restaurant_120,American,9.91,Weekday,4,24,15
+1477675,100942,Restaurant_179,Chinese,34.18,Weekend,4,22,18
+1477676,100414,Restaurant_74,American,25.92,Weekday,3,21,19
+1477677,101099,Restaurant_63,Thai,29.26,Weekday,5,34,19
+1477678,100910,Restaurant_70,Japanese,16.77,Weekend,5,34,26
+1477679,100188,Restaurant_21,American,14.88,Weekday,5,23,15
+1477680,100045,Restaurant_155,French,11.72,Weekday,5,33,21
+1477681,100083,Restaurant_70,American,19.34,Weekday,Not given,34,31
+1477682,101147,Restaurant_70,Chinese,21.54,Weekday,Not given,32,16
+1477683,100358,Restaurant_120,Chinese,24.02,Weekend,3,23,25
+1477684,101090,Restaurant_70,Italian,12.43,Weekend,5,30,21
+1477685,100936,Restaurant_119,Chinese,33.82,Weekend,4,27,31
+1477686,100375,Restaurant_12,Mexican,9.72,Weekday,4,27,17
+1477687,100162,Restaurant_141,Italian,34.35,Weekend,4,32,20
+1477688,100322,Restaurant_164,Vietnamese,4.93,Weekend,4,24,25
+1477689,100450,Restaurant_119,American,19.36,Weekday,4,32,32
+1477690,101037,Restaurant_168,American,14.78,Weekday,4,25,32
+1477691,100184,Restaurant_34,American,18.37,Weekend,Not given,27,24
+1477692,100111,Restaurant_78,Indian,22.13,Weekday,5,34,19
+1477693,100508,Restaurant_113,American,17.95,Weekend,Not given,20,29
+1477694,100295,Restaurant_107,French,17.31,Weekday,5,24,18
+1477695,100904,Restaurant_70,Mexican,27.14,Weekend,5,23,15
+1477696,100974,Restaurant_56,Mexican,25.69,Weekday,Not given,35,29
+1477697,100632,Restaurant_26,Indian,30.25,Weekday,Not given,23,31
+1477698,101051,Restaurant_70,American,12.2,Weekday,5,30,28
+1477699,100733,Restaurant_34,Chinese,23.33,Weekend,4,21,32
+1477700,100321,Restaurant_135,Chinese,22.58,Weekday,5,29,16
+1477701,100913,Restaurant_37,Indian,15.91,Weekday,4,20,20
+1477702,100437,Restaurant_12,Chinese,19.51,Weekday,Not given,33,27
+1477703,100781,Restaurant_97,American,14.18,Weekend,Not given,34,31
+1477704,101077,Restaurant_113,Vietnamese,8.86,Weekday,3,25,20
+1477705,100726,Restaurant_155,American,11.09,Weekend,5,26,19
+1477706,100031,Restaurant_105,French,7.73,Weekday,4,24,21
+1477707,100337,Restaurant_56,Thai,25.6,Weekday,5,35,15
+1477708,100183,Restaurant_141,Chinese,24.91,Weekday,Not given,34,27
+1477709,101047,Restaurant_94,American,33.88,Weekday,Not given,27,15
+1477710,100544,Restaurant_12,American,27.05,Weekend,4,28,27
+1477711,101098,Restaurant_105,Japanese,6.08,Weekday,5,30,25
+1477712,101034,Restaurant_155,Indian,31.83,Weekday,5,30,21
+1477713,100660,Restaurant_70,Thai,31.16,Weekend,5,21,17
+1477714,100160,Restaurant_53,Southern,18.19,Weekday,Not given,30,15
+1477715,101038,Restaurant_34,Japanese,22.6,Weekday,4,32,22
+1477716,100412,Restaurant_34,American,34.67,Weekend,5,23,31
+1477717,101012,Restaurant_70,Chinese,20.94,Weekday,4,30,27
+1477718,100053,Restaurant_113,Middle Eastern,32.48,Weekday,Not given,28,28
+1477719,100408,Restaurant_12,Chinese,7.04,Weekend,5,24,19
+1477720,100847,Restaurant_163,American,10.38,Weekday,Not given,22,20
+1477721,101046,Restaurant_140,Japanese,18.11,Weekday,Not given,25,20
+1477722,101054,Restaurant_108,Italian,22.56,Weekday,Not given,34,22
+1477723,100703,Restaurant_148,Southern,29.72,Weekend,4,22,27
+1477724,100260,Restaurant_12,Japanese,35.05,Weekday,5,33,32
+1477725,101083,Restaurant_77,American,16.5,Weekday,5,24,18
+1477726,100776,Restaurant_116,Southern,5.94,Weekend,5,22,31
+1477727,101036,Restaurant_148,Chinese,29.26,Weekend,5,25,19
+1477728,100850,Restaurant_140,Italian,23.17,Weekday,4,31,17
+1477729,100354,Restaurant_51,Italian,10.61,Weekday,4,35,18
+1477730,101099,Restaurant_164,American,19.78,Weekday,Not given,29,19
+1477731,100873,Restaurant_26,Mexican,27.44,Weekend,5,24,28
+1477732,100991,Restaurant_155,American,28.31,Weekday,3,33,29
+1477733,101018,Restaurant_175,Italian,19.93,Weekday,Not given,28,31
+1477734,101178,Restaurant_35,Italian,13.91,Weekend,Not given,35,20
+1477735,101120,Restaurant_135,Thai,34.6,Weekend,Not given,22,24
+1477736,100294,Restaurant_8,French,24.99,Weekday,Not given,25,30
+1477737,100209,Restaurant_70,American,17.1,Weekend,Not given,27,31
+1477738,101112,Restaurant_89,Italian,13.15,Weekday,5,26,28
+1477739,100818,Restaurant_107,Italian,27.09,Weekend,4,35,26
+1477740,100390,Restaurant_163,American,11.96,Weekday,5,25,23
+1477741,100325,Restaurant_122,French,9.78,Weekday,5,33,29
+1477742,100940,Restaurant_81,Japanese,20.86,Weekend,5,34,26
+1477743,100889,Restaurant_141,Chinese,13.44,Weekday,5,21,28
+1477744,101181,Restaurant_166,Italian,23.93,Weekday,5,35,32
+1477745,100668,Restaurant_2,American,8.12,Weekend,5,34,20
+1477746,100633,Restaurant_179,Indian,24.73,Weekend,5,26,18
+1477747,100577,Restaurant_12,American,13.24,Weekday,Not given,27,26
+1477748,100137,Restaurant_141,Vietnamese,4.48,Weekday,5,20,27
+1477749,100428,Restaurant_51,Thai,8.4,Weekday,Not given,34,27
+1477750,100612,Restaurant_28,Italian,33.36,Weekday,5,28,26
+1477751,100911,Restaurant_70,Indian,31.31,Weekday,Not given,23,17
+1477752,100819,Restaurant_119,Mediterranean,11.7,Weekday,Not given,27,17
+1477753,100141,Restaurant_70,Mexican,28.55,Weekend,3,34,28
+1477754,101107,Restaurant_10,American,23.3,Weekday,3,29,32
+1477755,100177,Restaurant_113,Italian,34.51,Weekday,5,26,24
+1477756,100198,Restaurant_155,Middle Eastern,16.03,Weekday,Not given,33,31
+1477757,100624,Restaurant_70,Indian,25.55,Weekend,Not given,32,29
+1477758,100691,Restaurant_40,Japanese,6.44,Weekday,Not given,29,23
+1477759,100401,Restaurant_70,Middle Eastern,16.73,Weekday,3,26,18
+1477760,100471,Restaurant_8,Mediterranean,34.29,Weekday,5,21,29
+1477761,100218,Restaurant_144,Mediterranean,21.15,Weekday,Not given,35,30
+1477762,100929,Restaurant_147,American,13.38,Weekday,5,20,22
+1477763,100632,Restaurant_108,Mexican,8.19,Weekend,4,23,31
+1477764,100951,Restaurant_61,Thai,26.24,Weekend,5,31,15
+1477765,100906,Restaurant_141,Thai,24.42,Weekday,Not given,35,21
+1477766,100175,Restaurant_99,Indian,16.04,Weekday,5,35,32
+1477767,100023,Restaurant_147,American,33.89,Weekend,5,21,26
+1477768,100235,Restaurant_116,French,5.16,Weekday,4,27,30
+1477769,101037,Restaurant_140,Japanese,13.87,Weekday,Not given,29,15
+1477770,101125,Restaurant_113,American,32.97,Weekday,4,35,29
+1477771,100929,Restaurant_70,Mexican,14.4,Weekday,5,26,21
+1477772,100523,Restaurant_170,American,12.27,Weekday,5,27,31
+1477773,100431,Restaurant_95,Italian,21.0,Weekend,Not given,30,17
+1477774,100793,Restaurant_113,American,29.96,Weekend,Not given,25,25
+1477775,100533,Restaurant_43,Italian,7.66,Weekend,Not given,20,20
+1477776,100979,Restaurant_116,Mexican,33.65,Weekday,4,33,20
+1477777,100810,Restaurant_105,Indian,29.07,Weekday,Not given,32,29
+1477778,100913,Restaurant_35,Japanese,10.08,Weekend,4,32,21
+1477779,101125,Restaurant_12,French,26.5,Weekend,4,31,25
+1477780,100871,Restaurant_113,Chinese,16.38,Weekday,4,28,31
+1477781,100540,Restaurant_140,American,16.92,Weekend,4,25,32
+1477782,101024,Restaurant_90,Middle Eastern,28.7,Weekend,Not given,31,22
+1477783,100227,Restaurant_44,American,34.26,Weekday,4,32,22
+1477784,100873,Restaurant_121,Vietnamese,8.39,Weekday,5,29,25
+1477785,100892,Restaurant_12,Middle Eastern,17.48,Weekday,5,20,17
+1477786,101037,Restaurant_70,Mexican,19.35,Weekday,5,20,28
+1477787,100210,Restaurant_34,Vietnamese,16.11,Weekday,4,35,23
+1477788,100741,Restaurant_35,American,15.71,Weekend,5,27,15
+1477789,100397,Restaurant_36,Chinese,6.09,Weekday,5,25,15
+1477790,101124,Restaurant_70,Indian,25.68,Weekday,3,27,26
+1477791,100031,Restaurant_9,Italian,17.97,Weekday,3,27,25
+1477792,100898,Restaurant_70,Southern,10.5,Weekday,Not given,34,15
+1477793,100649,Restaurant_89,American,29.72,Weekend,4,30,26
+1477794,100329,Restaurant_81,Mexican,29.3,Weekday,Not given,33,31
+1477795,101190,Restaurant_70,Indian,19.52,Weekday,Not given,27,29
+1477796,100952,Restaurant_151,Japanese,13.7,Weekend,Not given,29,16
+1477797,101124,Restaurant_34,Chinese,24.21,Weekday,3,34,32
+1477798,100621,Restaurant_88,Italian,13.39,Weekday,5,26,30
+1477799,101197,Restaurant_12,Middle Eastern,11.77,Weekday,Not given,26,18
+1477800,100162,Restaurant_12,Chinese,27.07,Weekday,5,29,22
+1477801,100776,Restaurant_105,French,5.72,Weekday,5,23,16
+1477802,100274,Restaurant_105,Indian,7.4,Weekday,4,28,28
+1477803,101027,Restaurant_155,Thai,4.68,Weekday,5,31,29
+1477804,101052,Restaurant_102,Japanese,9.2,Weekend,Not given,21,23
+1477805,100326,Restaurant_171,Chinese,6.6,Weekday,4,30,16
+1477806,100940,Restaurant_8,Indian,35.28,Weekday,4,28,31
+1477807,101173,Restaurant_13,Middle Eastern,13.41,Weekday,3,29,24
+1477808,100540,Restaurant_8,Italian,9.09,Weekday,4,22,23
+1477809,100488,Restaurant_35,Korean,11.93,Weekday,5,33,16
+1477810,100822,Restaurant_95,Italian,33.43,Weekday,4,32,31
+1477811,101089,Restaurant_119,American,20.56,Weekend,Not given,34,25
+1477812,100356,Restaurant_8,Italian,15.76,Weekday,4,35,31
+1477813,100235,Restaurant_166,Korean,31.49,Weekday,Not given,21,24
+1477814,100227,Restaurant_151,Chinese,16.69,Weekday,5,32,32
+1477815,100049,Restaurant_53,Middle Eastern,14.84,Weekend,5,23,20
+1477816,100118,Restaurant_12,Mediterranean,10.88,Weekday,5,24,30
+1477817,100054,Restaurant_35,Italian,16.16,Weekday,5,21,32
+1477818,100565,Restaurant_26,American,14.27,Weekday,Not given,32,32
+1477819,101068,Restaurant_25,Japanese,25.43,Weekend,Not given,34,15
+1477820,100053,Restaurant_89,Chinese,13.43,Weekday,5,20,17
+1477821,100558,Restaurant_48,Thai,22.33,Weekend,4,29,29
+1477822,101126,Restaurant_63,Italian,6.51,Weekday,Not given,30,24
+1477823,100868,Restaurant_179,Mexican,10.39,Weekday,5,24,19
+1477824,100398,Restaurant_125,Thai,17.08,Weekday,5,28,29
+1477825,101162,Restaurant_166,Italian,33.46,Weekday,Not given,34,28
+1477826,100675,Restaurant_32,Italian,16.14,Weekday,4,31,29
+1477827,100387,Restaurant_70,Italian,25.02,Weekday,Not given,31,24
+1477828,100111,Restaurant_99,Italian,12.36,Weekend,5,34,23
+1477829,100614,Restaurant_12,Mexican,8.4,Weekday,Not given,24,26
+1477830,100017,Restaurant_2,French,6.28,Weekday,5,31,21
+1477831,100884,Restaurant_122,Italian,13.92,Weekday,5,30,19
+1477832,100541,Restaurant_117,Mexican,9.35,Weekday,4,29,24
+1477833,100171,Restaurant_70,Japanese,9.85,Weekday,5,28,22
+1477834,100409,Restaurant_81,Chinese,28.01,Weekday,5,33,30
+1477835,100740,Restaurant_70,Chinese,4.96,Weekday,5,32,26
+1477836,100858,Restaurant_2,Southern,21.73,Weekend,5,31,23
+1477837,100230,Restaurant_56,Japanese,16.21,Weekend,Not given,29,24
+1477838,100119,Restaurant_35,Indian,20.14,Weekday,4,25,30
+1477839,101180,Restaurant_13,Indian,21.88,Weekday,5,22,24
+1477840,100784,Restaurant_170,American,14.17,Weekday,5,23,23
+1477841,100465,Restaurant_113,Indian,13.6,Weekday,5,23,17
+1477842,100104,Restaurant_135,Mexican,27.16,Weekday,4,20,25
+1477843,100698,Restaurant_54,Mexican,31.43,Weekday,5,22,20
+1477844,100175,Restaurant_70,Italian,10.43,Weekend,Not given,22,20
+1477845,100745,Restaurant_45,American,7.49,Weekday,5,32,29
+1477846,101158,Restaurant_13,Chinese,32.25,Weekday,5,33,29
+1477847,100665,Restaurant_35,Korean,15.3,Weekday,Not given,20,27
+1477848,100033,Restaurant_141,Italian,21.53,Weekday,Not given,32,19
+1477849,100055,Restaurant_122,Mexican,15.59,Weekday,5,28,28
+1477850,100519,Restaurant_95,American,8.36,Weekday,Not given,30,16
+1477851,100756,Restaurant_77,American,22.7,Weekday,4,20,26
+1477852,100012,Restaurant_158,Japanese,20.72,Weekend,Not given,28,28
+1477853,100720,Restaurant_12,Mexican,10.75,Weekday,4,20,29
+1477854,100555,Restaurant_51,Mexican,18.45,Weekday,3,35,31
+1477855,100373,Restaurant_60,Chinese,29.13,Weekday,Not given,21,28
+1477856,100484,Restaurant_140,Thai,22.74,Weekday,5,21,32
+1477857,100973,Restaurant_179,American,7.47,Weekday,4,33,19
+1477858,100623,Restaurant_46,Chinese,21.43,Weekend,4,25,26
+1477859,100307,Restaurant_155,Mexican,26.21,Weekend,5,26,24
+1477860,100457,Restaurant_150,Chinese,29.0,Weekend,5,30,22
+1477861,100160,Restaurant_44,Chinese,23.93,Weekday,5,20,20
+1477862,100331,Restaurant_70,Indian,9.19,Weekday,3,22,29
+1477863,100776,Restaurant_70,Japanese,26.44,Weekday,4,21,26
+1477864,100225,Restaurant_178,French,25.43,Weekday,4,27,20
+1477865,100983,Restaurant_35,Italian,5.23,Weekend,5,28,26
+1477866,100729,Restaurant_141,American,17.21,Weekday,4,32,29
+1477867,101069,Restaurant_56,Chinese,14.77,Weekday,Not given,21,26
+1477868,101083,Restaurant_135,Vietnamese,25.18,Weekday,4,21,23
+1477869,100644,Restaurant_70,Indian,11.16,Weekday,4,29,16
+1477870,100616,Restaurant_105,Japanese,22.75,Weekday,Not given,34,27
+1477871,100195,Restaurant_151,American,32.72,Weekday,Not given,28,27
+1477872,100489,Restaurant_141,Mexican,29.15,Weekday,4,33,22
+1477873,100157,Restaurant_155,American,32.98,Weekend,Not given,23,27
+1477874,100610,Restaurant_12,Indian,34.74,Weekend,4,24,18
+1477875,100412,Restaurant_127,Southern,4.8,Weekday,Not given,32,20
+1477876,101103,Restaurant_31,Korean,23.74,Weekday,5,30,20
+1477877,101148,Restaurant_70,Mexican,17.24,Weekday,5,28,26
+1477878,100471,Restaurant_96,Italian,31.07,Weekday,5,25,26
+1477879,100516,Restaurant_70,Southern,12.26,Weekday,Not given,29,31
+1477880,101128,Restaurant_89,Japanese,34.82,Weekday,4,31,21
+1477881,100393,Restaurant_179,American,23.46,Weekday,5,28,29
+1477882,100631,Restaurant_29,Mexican,29.02,Weekday,5,28,31
+1477883,100608,Restaurant_122,Chinese,7.12,Weekday,Not given,26,24
+1477884,100980,Restaurant_70,Mexican,10.15,Weekday,Not given,33,20
+1477885,100434,Restaurant_28,Italian,27.94,Weekend,4,31,23
+1477886,101167,Restaurant_34,Indian,5.15,Weekend,4,29,29
+1477887,100540,Restaurant_166,Italian,29.74,Weekday,4,28,30
+1477888,100278,Restaurant_155,American,4.9,Weekend,4,24,22
+1477889,100233,Restaurant_155,Mexican,24.8,Weekday,Not given,35,30
+1477890,101114,Restaurant_179,French,15.77,Weekend,5,24,19
+1477891,100362,Restaurant_37,Japanese,23.39,Weekend,4,31,32
+1477892,100026,Restaurant_63,Italian,26.01,Weekday,5,27,28
+1477893,101049,Restaurant_122,Southern,15.07,Weekday,4,29,16
+1477894,100507,Restaurant_81,Mediterranean,7.81,Weekday,4,23,17
+1477895,100267,Restaurant_70,Chinese,6.62,Weekday,4,28,28
+1477896,100461,Restaurant_63,American,22.69,Weekday,5,26,21
+1477897,100456,Restaurant_113,Thai,20.58,Weekday,4,26,29
+1477898,101092,Restaurant_105,French,27.43,Weekday,5,32,31
+1477899,101007,Restaurant_34,Korean,20.24,Weekend,5,34,15
+1477900,100863,Restaurant_77,Mediterranean,17.54,Weekend,5,22,23
+1477901,100491,Restaurant_98,Indian,16.79,Weekday,Not given,23,28
+1477902,101073,Restaurant_105,Mexican,5.29,Weekday,4,26,30
+1477903,100564,Restaurant_39,American,14.85,Weekday,4,30,27
+1477904,101126,Restaurant_138,Chinese,34.67,Weekday,Not given,30,20
+1477905,100216,Restaurant_2,Italian,31.5,Weekend,3,33,15
+1477906,100559,Restaurant_63,Indian,14.66,Weekday,4,24,18
+1477907,100159,Restaurant_140,Mexican,22.66,Weekday,5,31,17
+1477908,100489,Restaurant_104,Thai,30.69,Weekday,5,22,31
+1477909,100686,Restaurant_51,Chinese,18.12,Weekday,3,20,16
+1477910,100794,Restaurant_127,Indian,5.03,Weekday,4,26,22
+1477911,100005,Restaurant_105,American,6.78,Weekend,Not given,25,29
+1477912,100361,Restaurant_141,Italian,20.26,Weekday,Not given,29,20
+1477913,100459,Restaurant_135,Thai,34.46,Weekday,5,34,16
+1477914,100248,Restaurant_113,Japanese,25.92,Weekday,5,26,29
+1477915,100946,Restaurant_81,Spanish,6.66,Weekend,3,34,26
+1477916,100422,Restaurant_28,Chinese,10.33,Weekend,5,33,17
+1477917,100015,Restaurant_51,Mexican,28.33,Weekday,5,21,24
+1477918,100736,Restaurant_70,Chinese,30.5,Weekday,Not given,32,28
+1477919,101146,Restaurant_113,Italian,23.58,Weekday,5,31,28
+1477920,100277,Restaurant_89,Middle Eastern,24.41,Weekday,Not given,23,17
+1477921,100453,Restaurant_52,Japanese,5.35,Weekend,Not given,21,15
+1477922,100598,Restaurant_2,Mediterranean,30.1,Weekday,Not given,27,15
+1477923,100446,Restaurant_83,Chinese,28.86,Weekday,5,26,16
+1477924,100210,Restaurant_52,Middle Eastern,12.48,Weekday,5,20,24
+1477925,100714,Restaurant_135,American,26.4,Weekday,4,21,18
+1477926,100302,Restaurant_2,Mediterranean,11.12,Weekday,5,21,18
+1477927,100003,Restaurant_108,Chinese,5.72,Weekend,5,23,27
+1477928,100990,Restaurant_164,Chinese,10.69,Weekday,5,22,23
+1477929,101117,Restaurant_35,Mexican,10.0,Weekday,5,20,21
+1477930,100520,Restaurant_77,Southern,14.92,Weekday,5,31,30
+1477931,100493,Restaurant_12,American,17.42,Weekday,Not given,33,32
+1477932,100620,Restaurant_116,Italian,20.2,Weekday,5,21,17
+1477933,101185,Restaurant_97,Middle Eastern,19.22,Weekday,5,35,24
+1477934,100331,Restaurant_70,Italian,12.84,Weekend,4,30,30
+1477935,100333,Restaurant_89,Chinese,5.37,Weekday,Not given,28,17
+1477936,100050,Restaurant_155,Italian,23.19,Weekday,5,32,25
+1477937,100863,Restaurant_35,Italian,16.71,Weekday,5,20,24
+1477938,100272,Restaurant_2,Mediterranean,13.71,Weekday,4,28,30
+1477939,100580,Restaurant_155,Thai,31.29,Weekend,Not given,26,22
+1477940,100560,Restaurant_105,Mexican,27.57,Weekend,Not given,21,23
+1477941,100696,Restaurant_155,Vietnamese,31.01,Weekday,4,21,29
+1477942,101114,Restaurant_113,Mexican,19.78,Weekday,5,24,17
+1477943,100446,Restaurant_141,American,8.52,Weekday,4,32,18
+1477944,101017,Restaurant_70,Chinese,26.01,Weekday,5,24,27
+1477945,101163,Restaurant_140,Italian,10.85,Weekday,3,23,26
+1477946,100357,Restaurant_157,American,18.12,Weekday,Not given,31,23
+1477947,100274,Restaurant_105,Southern,6.48,Weekday,Not given,29,28
+1477948,101043,Restaurant_35,Thai,30.01,Weekday,5,29,21
+1477949,100311,Restaurant_51,Chinese,8.37,Weekend,5,32,30
+1477950,100870,Restaurant_35,Indian,32.41,Weekday,4,31,19
+1477951,100886,Restaurant_49,Japanese,31.21,Weekday,Not given,22,24
+1477952,100154,Restaurant_53,Southern,18.84,Weekend,Not given,23,32
+1477953,100620,Restaurant_100,Mediterranean,27.5,Weekday,5,29,25
+1477954,100883,Restaurant_108,Mexican,23.64,Weekday,5,23,21
+1477955,100797,Restaurant_70,Thai,29.32,Weekday,4,21,28
+1477956,100125,Restaurant_114,Indian,17.83,Weekday,5,24,32
+1477957,100619,Restaurant_12,Mexican,28.78,Weekend,Not given,34,25
+1477958,100245,Restaurant_12,American,18.78,Weekend,4,24,26
+1477959,100848,Restaurant_35,American,33.58,Weekday,Not given,24,32
+1477960,100450,Restaurant_89,Mexican,19.52,Weekday,4,30,16
+1477961,100930,Restaurant_39,Chinese,18.78,Weekday,Not given,34,15
+1477962,100520,Restaurant_51,American,28.76,Weekday,5,30,24
+1477963,101165,Restaurant_70,Japanese,29.89,Weekday,Not given,29,15
+1477964,100362,Restaurant_141,American,21.63,Weekend,5,20,20
+1477965,100008,Restaurant_2,Indian,10.03,Weekday,4,25,21
+1477966,100478,Restaurant_119,Mexican,18.94,Weekend,5,30,31
+1477967,100495,Restaurant_122,Korean,34.42,Weekday,4,21,23
+1477968,100833,Restaurant_141,Mexican,27.77,Weekday,5,26,21
+1477969,101063,Restaurant_162,American,29.57,Weekday,5,23,31
+1477970,100593,Restaurant_2,Mexican,5.49,Weekend,Not given,34,17
+1477971,100187,Restaurant_34,Middle Eastern,18.95,Weekend,5,24,30
+1477972,100754,Restaurant_155,Spanish,24.48,Weekend,Not given,24,19
+1477973,100093,Restaurant_74,Italian,30.15,Weekday,Not given,24,32
+1477974,100086,Restaurant_105,Chinese,5.99,Weekday,5,21,15
+1477975,101068,Restaurant_121,Mediterranean,30.84,Weekend,Not given,24,18
+1477976,100137,Restaurant_122,Chinese,21.44,Weekday,5,22,25
+1477977,100421,Restaurant_161,Indian,10.57,Weekday,5,23,23
+1477978,100074,Restaurant_179,Italian,14.29,Weekday,4,32,22
+1477979,101180,Restaurant_135,American,13.19,Weekend,Not given,21,22
+1477980,100171,Restaurant_52,Italian,20.89,Weekend,5,23,19
+1477981,100170,Restaurant_155,Chinese,6.07,Weekday,4,32,26
+1477982,100872,Restaurant_9,Japanese,9.38,Weekday,4,28,15
+1477983,100322,Restaurant_44,Southern,29.61,Weekend,Not given,27,29
+1477984,100456,Restaurant_155,Chinese,8.57,Weekday,5,32,32
+1477985,100944,Restaurant_51,French,11.69,Weekday,3,33,20
+1477986,100790,Restaurant_43,American,18.5,Weekend,3,34,24
+1477987,100613,Restaurant_30,Mexican,20.47,Weekday,3,30,28
+1477988,101179,Restaurant_155,American,28.1,Weekday,Not given,31,22
+1477989,100889,Restaurant_87,Southern,18.31,Weekday,Not given,22,17
+1477990,100349,Restaurant_122,Thai,28.91,Weekend,5,20,26
+1477991,101197,Restaurant_46,Japanese,23.6,Weekend,4,20,26
+1477992,100010,Restaurant_140,French,7.97,Weekend,4,25,29
+1477993,100740,Restaurant_140,Indian,9.31,Weekday,5,22,21
+1477994,100667,Restaurant_53,Korean,17.99,Weekend,4,23,18
+1477995,100546,Restaurant_70,Japanese,16.75,Weekend,5,20,23
+1477996,100129,Restaurant_38,Southern,27.48,Weekday,4,27,30
+1477997,100601,Restaurant_177,Mexican,22.44,Weekend,Not given,20,27
+1477998,100605,Restaurant_119,American,16.48,Weekday,5,24,18
+1477999,100327,Restaurant_162,Mexican,9.75,Weekday,Not given,25,23
+1478000,100980,Restaurant_53,American,11.49,Weekday,4,34,32
+1478001,100404,Restaurant_140,Indian,22.28,Weekday,4,21,29
+1478002,100629,Restaurant_140,Mexican,17.57,Weekday,Not given,26,29
+1478003,100718,Restaurant_127,Indian,20.4,Weekday,5,35,20
+1478004,101041,Restaurant_173,American,9.75,Weekday,4,26,25
+1478005,100274,Restaurant_70,Chinese,24.98,Weekend,4,35,22
+1478006,100685,Restaurant_27,Mexican,30.85,Weekday,5,20,31
+1478007,100116,Restaurant_122,Korean,12.45,Weekday,Not given,23,31
+1478008,100861,Restaurant_135,Italian,19.68,Weekday,Not given,31,32
+1478009,100693,Restaurant_105,Italian,34.65,Weekend,5,32,18
+1478010,101115,Restaurant_36,Japanese,14.78,Weekday,5,35,29
+1478011,101106,Restaurant_87,Indian,22.88,Weekday,4,23,16
+1478012,100324,Restaurant_53,Chinese,7.26,Weekend,5,24,16
+1478013,100961,Restaurant_70,Italian,23.22,Weekday,4,20,24
+1478014,100114,Restaurant_119,Chinese,7.24,Weekday,5,20,17
+1478015,101082,Restaurant_138,Korean,34.15,Weekday,4,26,22
+1478016,100154,Restaurant_44,American,26.61,Weekend,5,28,21
+1478017,100315,Restaurant_70,Italian,28.86,Weekday,5,20,26
+1478018,101065,Restaurant_51,American,26.25,Weekend,3,35,29
+1478019,100105,Restaurant_35,Chinese,22.72,Weekday,4,21,28
+1478020,100354,Restaurant_140,Thai,18.39,Weekend,Not given,25,30
+1478021,101016,Restaurant_155,Chinese,31.03,Weekend,Not given,34,28
+1478022,100733,Restaurant_68,American,34.07,Weekend,5,34,17
+1478023,100709,Restaurant_140,Mexican,19.91,Weekday,5,25,32
+1478024,100651,Restaurant_155,American,33.29,Weekend,Not given,21,20
+1478025,100824,Restaurant_152,American,22.52,Weekday,Not given,28,31
+1478026,100947,Restaurant_35,French,21.13,Weekday,Not given,23,28
+1478027,100661,Restaurant_170,Thai,18.53,Weekday,5,32,28
+1478028,100099,Restaurant_68,Mediterranean,10.95,Weekend,Not given,26,27
+1478029,100588,Restaurant_56,Middle Eastern,4.59,Weekend,5,25,17
+1478030,100282,Restaurant_12,Japanese,11.94,Weekend,Not given,30,27
+1478031,100403,Restaurant_81,American,20.24,Weekday,Not given,32,16
+1478032,101133,Restaurant_18,Thai,16.23,Weekday,5,30,23
+1478033,100700,Restaurant_49,Middle Eastern,18.35,Weekend,Not given,22,27
+1478034,100199,Restaurant_54,French,34.81,Weekday,5,27,22
+1478035,100327,Restaurant_141,Mexican,15.31,Weekday,Not given,26,30
+1478036,100154,Restaurant_155,Chinese,18.46,Weekday,5,28,17
+1478037,100552,Restaurant_53,Middle Eastern,8.6,Weekday,Not given,35,27
+1478038,100405,Restaurant_155,Japanese,5.95,Weekday,5,22,18
+1478039,100462,Restaurant_155,Vietnamese,28.46,Weekday,Not given,20,32
+1478040,100132,Restaurant_140,American,22.13,Weekday,4,21,16
+1478041,100791,Restaurant_34,Chinese,28.01,Weekday,4,31,29
+1478042,100874,Restaurant_127,Chinese,9.11,Weekend,5,30,31
+1478043,100084,Restaurant_166,French,22.16,Weekday,Not given,34,24
+1478044,100754,Restaurant_123,Chinese,12.32,Weekday,5,31,15
+1478045,100628,Restaurant_56,American,11.53,Weekday,4,20,20
+1478046,101133,Restaurant_87,Spanish,4.83,Weekday,5,30,17
+1478047,100221,Restaurant_119,American,8.5,Weekend,Not given,24,21
+1478048,100553,Restaurant_89,French,14.04,Weekend,5,35,27
+1478049,101171,Restaurant_24,Italian,8.09,Weekday,5,34,27
+1478050,100112,Restaurant_53,Middle Eastern,34.97,Weekday,5,29,31
+1478051,100615,Restaurant_141,Mexican,14.02,Weekend,4,33,15
+1478052,100924,Restaurant_155,Mediterranean,8.5,Weekend,5,21,28
+1478053,100475,Restaurant_29,Southern,10.63,Weekday,4,35,17
+1478054,100836,Restaurant_166,American,22.65,Weekday,Not given,22,28
+1478055,100271,Restaurant_55,American,6.45,Weekday,Not given,27,15
+1478056,100421,Restaurant_121,Chinese,31.15,Weekend,4,34,30
+1478057,100707,Restaurant_140,Japanese,34.22,Weekday,5,29,24
+1478058,100040,Restaurant_141,Mediterranean,12.1,Weekend,Not given,33,27
+1478059,100189,Restaurant_166,Italian,18.4,Weekday,5,24,18
+1478060,101188,Restaurant_53,Indian,5.15,Weekday,Not given,23,23
+1478061,100994,Restaurant_155,Chinese,24.29,Weekday,5,35,28
+1478062,100536,Restaurant_28,French,17.28,Weekday,4,24,18
+1478063,101028,Restaurant_128,Korean,12.83,Weekday,5,29,24
+1478064,100290,Restaurant_138,Chinese,10.87,Weekday,Not given,25,22
+1478065,100433,Restaurant_122,Mexican,24.71,Weekday,5,31,17
+1478066,100471,Restaurant_51,American,17.35,Weekend,4,26,21
+1478067,100628,Restaurant_155,Mexican,10.03,Weekday,5,33,24
+1478068,100279,Restaurant_35,Mexican,25.79,Weekday,Not given,32,17
+1478069,100877,Restaurant_10,American,21.95,Weekend,Not given,28,16
+1478070,100581,Restaurant_135,Italian,31.04,Weekend,4,20,29
+1478071,100863,Restaurant_77,Italian,8.1,Weekend,4,23,23
+1478072,100254,Restaurant_154,Mexican,28.78,Weekend,Not given,35,29
+1478073,100181,Restaurant_70,Indian,25.31,Weekday,4,31,31
+1478074,100681,Restaurant_35,American,8.03,Weekday,4,31,21
+1478075,100825,Restaurant_151,Thai,25.97,Weekend,4,28,32
+1478076,100700,Restaurant_96,Japanese,18.13,Weekday,3,24,29
+1478077,100566,Restaurant_35,Italian,33.71,Weekday,5,27,32
+1478078,100680,Restaurant_135,American,8.85,Weekend,Not given,31,26
+1478079,100391,Restaurant_89,Thai,24.36,Weekday,4,20,22
+1478080,101109,Restaurant_113,Korean,16.29,Weekday,5,23,16
+1478081,100212,Restaurant_75,Chinese,34.07,Weekday,Not given,31,16
+1478082,100384,Restaurant_148,Chinese,14.68,Weekday,5,35,19
+1478083,100342,Restaurant_150,Chinese,34.24,Weekday,5,35,15
+1478084,100844,Restaurant_131,Indian,32.36,Weekday,3,33,18
+1478085,101062,Restaurant_16,American,12.84,Weekend,Not given,31,20
+1478086,100420,Restaurant_151,Italian,29.33,Weekday,Not given,28,27
+1478087,100751,Restaurant_122,Japanese,35.27,Weekday,Not given,32,25
+1478088,101193,Restaurant_128,Indian,12.29,Weekend,Not given,20,27
+1478089,100306,Restaurant_63,Italian,17.98,Weekend,5,20,22
+1478090,100702,Restaurant_155,Italian,20.56,Weekend,5,23,21
+1478091,100869,Restaurant_135,Indian,13.6,Weekend,Not given,33,27
+1478092,100537,Restaurant_20,American,4.94,Weekday,5,22,15
+1478093,101136,Restaurant_70,American,11.28,Weekday,4,26,20
+1478094,100206,Restaurant_155,Mediterranean,13.19,Weekday,4,30,21
+1478095,100496,Restaurant_8,American,18.19,Weekday,5,22,30
+1478096,101071,Restaurant_171,Japanese,9.76,Weekday,Not given,20,29
+1478097,100504,Restaurant_122,Southern,31.49,Weekday,4,31,16
+1478098,101046,Restaurant_116,Chinese,26.28,Weekend,4,35,30
+1478099,100213,Restaurant_51,Italian,7.11,Weekday,Not given,34,31
+1478100,100310,Restaurant_49,Indian,24.58,Weekday,4,30,29
+1478101,100661,Restaurant_164,Mediterranean,24.69,Weekday,5,29,17
+1478102,100753,Restaurant_53,Southern,34.06,Weekday,4,21,18
+1478103,100272,Restaurant_140,Thai,4.56,Weekday,Not given,29,26
+1478104,100938,Restaurant_70,American,12.14,Weekend,Not given,32,19
+1478105,100032,Restaurant_31,Japanese,33.18,Weekday,Not given,23,31
+1478106,100443,Restaurant_2,Italian,33.31,Weekday,Not given,20,20
+1478107,100162,Restaurant_95,Mexican,26.76,Weekday,5,20,24
+1478108,100767,Restaurant_177,American,28.16,Weekend,Not given,31,32
+1478109,100254,Restaurant_66,Chinese,7.3,Weekday,Not given,33,24
+1478110,100521,Restaurant_63,French,20.37,Weekday,5,27,20
+1478111,100977,Restaurant_56,Italian,11.64,Weekday,5,26,20
+1478112,100010,Restaurant_89,Chinese,10.08,Weekday,Not given,33,29
+1478113,100726,Restaurant_70,Italian,29.54,Weekend,Not given,27,18
+1478114,100505,Restaurant_155,Middle Eastern,8.65,Weekend,Not given,32,30
+1478115,100785,Restaurant_87,Thai,18.97,Weekday,Not given,23,22
+1478116,100436,Restaurant_88,Chinese,33.51,Weekend,4,25,21
+1478117,101135,Restaurant_30,American,10.22,Weekend,3,34,31
+1478118,100153,Restaurant_179,Chinese,34.73,Weekday,4,32,27
+1478119,100917,Restaurant_51,Southern,35.23,Weekend,5,22,29
+1478120,100869,Restaurant_12,Indian,21.66,Weekday,Not given,30,16
+1478121,101126,Restaurant_121,Mexican,9.73,Weekday,4,32,24
+1478122,100753,Restaurant_113,Indian,14.25,Weekday,3,27,27
+1478123,100563,Restaurant_70,Italian,17.6,Weekend,4,23,32
+1478124,101105,Restaurant_70,French,14.04,Weekday,4,22,25
+1478125,100489,Restaurant_140,Mexican,13.15,Weekend,5,23,27
+1478126,100895,Restaurant_35,American,34.55,Weekend,5,25,19
+1478127,101112,Restaurant_144,American,9.22,Weekday,5,30,17
+1478128,100104,Restaurant_119,Mexican,27.16,Weekend,5,26,27
+1478129,101120,Restaurant_70,Southern,4.48,Weekday,Not given,26,19
+1478130,101025,Restaurant_74,Chinese,22.92,Weekday,5,33,26
+1478131,101007,Restaurant_51,Middle Eastern,32.81,Weekend,5,34,28
+1478132,100407,Restaurant_140,Thai,13.38,Weekday,4,31,20
+1478133,100167,Restaurant_89,Chinese,10.21,Weekend,4,35,23
+1478134,100509,Restaurant_54,American,24.63,Weekend,5,23,31
+1478135,100313,Restaurant_113,American,26.52,Weekday,Not given,27,22
+1478136,100763,Restaurant_179,Japanese,25.76,Weekday,Not given,26,27
+1478137,100681,Restaurant_70,Chinese,14.35,Weekday,5,21,19
+1478138,100477,Restaurant_158,Italian,12.27,Weekday,5,32,31
+1478139,100073,Restaurant_56,Mexican,34.05,Weekend,Not given,27,17
+1478140,101165,Restaurant_10,Japanese,33.04,Weekday,Not given,28,20
+1478141,100582,Restaurant_36,American,18.62,Weekday,Not given,24,28
+1478142,100262,Restaurant_70,Italian,30.65,Weekday,5,34,29
+1478143,100245,Restaurant_42,Mexican,18.46,Weekday,4,23,28
+1478144,100561,Restaurant_1,Mexican,17.6,Weekend,4,35,25
+1478145,101100,Restaurant_157,French,9.32,Weekday,5,23,25
+1478146,100175,Restaurant_151,American,17.66,Weekend,4,32,23
+1478147,100109,Restaurant_138,French,21.1,Weekday,4,35,20
+1478148,100183,Restaurant_35,Japanese,5.17,Weekend,5,23,29
+1478149,100192,Restaurant_24,Mexican,18.21,Weekday,Not given,25,26
+1478150,100065,Restaurant_12,Japanese,28.65,Weekday,Not given,30,20
+1478151,100963,Restaurant_135,Italian,25.51,Weekend,5,23,15
+1478152,101124,Restaurant_160,American,24.12,Weekday,Not given,35,30
+1478153,100864,Restaurant_70,Japanese,32.61,Weekend,5,26,29
+1478154,101152,Restaurant_23,Mexican,5.03,Weekday,Not given,26,16
+1478155,100369,Restaurant_89,Indian,21.71,Weekday,5,24,31
+1478156,100851,Restaurant_58,Italian,28.83,Weekday,5,32,17
+1478157,100043,Restaurant_68,Mediterranean,21.22,Weekday,3,24,17
+1478158,100488,Restaurant_115,Indian,14.49,Weekday,4,34,19
+1478159,100078,Restaurant_135,American,8.69,Weekday,Not given,29,31
+1478160,100826,Restaurant_19,Italian,31.93,Weekday,5,27,31
+1478161,100674,Restaurant_4,Thai,19.04,Weekday,5,26,20
+1478162,100701,Restaurant_179,French,31.64,Weekday,4,33,15
+1478163,100759,Restaurant_44,Mexican,22.6,Weekend,4,26,21
+1478164,100728,Restaurant_10,Mediterranean,25.33,Weekend,5,25,29
+1478165,100925,Restaurant_35,Chinese,29.35,Weekend,Not given,26,21
+1478166,100902,Restaurant_8,Italian,24.86,Weekend,Not given,26,25
+1478167,100889,Restaurant_70,Mediterranean,16.79,Weekday,Not given,29,28
+1478168,100993,Restaurant_141,Mediterranean,20.36,Weekend,Not given,33,27
+1478169,101192,Restaurant_56,Japanese,29.32,Weekday,5,21,23
+1478170,100339,Restaurant_71,Middle Eastern,16.03,Weekday,Not given,33,23
+1478171,100193,Restaurant_122,American,16.48,Weekday,4,29,30
+1478172,100283,Restaurant_88,Middle Eastern,7.43,Weekday,3,21,26
+1478173,100390,Restaurant_155,Chinese,32.77,Weekend,4,33,24
+1478174,101000,Restaurant_155,American,7.29,Weekday,Not given,29,20
+1478175,100525,Restaurant_2,Chinese,24.53,Weekday,Not given,26,32
+1478176,100659,Restaurant_140,Italian,17.25,Weekday,Not given,33,16
+1478177,100716,Restaurant_75,Chinese,17.02,Weekend,Not given,29,23
+1478178,100891,Restaurant_179,Chinese,25.5,Weekday,Not given,26,20
+1478179,101113,Restaurant_81,American,6.55,Weekday,Not given,26,16
+1478180,101119,Restaurant_179,Chinese,22.84,Weekday,4,24,29
+1478181,100452,Restaurant_140,Indian,28.36,Weekend,5,20,31
+1478182,100428,Restaurant_49,Italian,30.09,Weekday,5,33,30
+1478183,101175,Restaurant_94,Italian,9.75,Weekday,5,21,22
+1478184,101046,Restaurant_179,Thai,32.24,Weekday,4,32,24
+1478185,100883,Restaurant_155,Mediterranean,24.77,Weekday,4,28,24
+1478186,100313,Restaurant_13,Thai,31.75,Weekday,4,27,32
+1478187,100840,Restaurant_129,Italian,19.48,Weekday,Not given,27,24
+1478188,100519,Restaurant_56,Thai,21.24,Weekend,Not given,29,23
+1478189,100375,Restaurant_2,American,32.91,Weekday,5,35,15
+1478190,100451,Restaurant_70,American,32.31,Weekday,5,20,18
+1478191,101015,Restaurant_44,Italian,18.34,Weekend,4,25,17
+1478192,100595,Restaurant_143,French,12.96,Weekday,5,34,24
+1478193,100500,Restaurant_56,Chinese,16.63,Weekday,Not given,34,26
+1478194,100464,Restaurant_148,American,16.47,Weekday,4,28,32
+1478195,101148,Restaurant_1,American,13.35,Weekday,4,35,20
+1478196,100113,Restaurant_53,Middle Eastern,12.78,Weekend,Not given,34,16
+1478197,101036,Restaurant_46,Indian,31.11,Weekday,Not given,27,24
+1478198,101150,Restaurant_44,Chinese,6.63,Weekend,5,22,16
+1478199,100331,Restaurant_12,Mexican,25.44,Weekday,Not given,23,23
+1478200,100140,Restaurant_35,Mexican,9.82,Weekday,4,34,24
+1478201,100902,Restaurant_100,Japanese,15.13,Weekday,5,22,16
+1478202,101121,Restaurant_52,Chinese,6.37,Weekday,5,25,22
+1478203,100517,Restaurant_70,Middle Eastern,12.82,Weekday,4,33,31
+1478204,100569,Restaurant_68,Chinese,28.24,Weekend,5,28,31
+1478205,100846,Restaurant_155,Japanese,31.85,Weekday,5,34,18
+1478206,101093,Restaurant_155,American,11.32,Weekend,Not given,27,32
+1478207,100118,Restaurant_82,Italian,18.81,Weekday,Not given,34,26
+1478208,100888,Restaurant_55,Italian,19.02,Weekend,5,35,31
+1478209,101083,Restaurant_17,Mexican,31.5,Weekend,5,35,23
+1478210,101057,Restaurant_167,American,28.07,Weekend,Not given,34,28
+1478211,100050,Restaurant_12,French,20.34,Weekend,5,35,28
+1478212,100019,Restaurant_53,Chinese,25.22,Weekend,Not given,32,31
+1478213,100726,Restaurant_53,Japanese,30.69,Weekday,4,29,16
+1478214,100197,Restaurant_54,French,4.77,Weekday,5,23,22
+1478215,100559,Restaurant_34,Indian,16.94,Weekday,5,34,19
+1478216,100452,Restaurant_140,Thai,32.54,Weekend,5,21,21
+1478217,100289,Restaurant_25,Japanese,27.38,Weekday,5,32,30
+1478218,101165,Restaurant_116,Italian,21.27,Weekend,5,27,30
+1478219,101108,Restaurant_26,French,20.86,Weekday,4,27,31
+1478220,100391,Restaurant_12,Chinese,15.23,Weekday,5,33,21
+1478221,100215,Restaurant_155,Indian,20.57,Weekday,4,31,22
+1478222,100215,Restaurant_35,Thai,24.75,Weekday,4,30,22
+1478223,100128,Restaurant_145,Italian,17.41,Weekday,5,25,25
+1478224,100760,Restaurant_95,Chinese,26.57,Weekday,5,33,29
+1478225,100404,Restaurant_12,Italian,31.12,Weekday,5,27,32
+1478226,101053,Restaurant_169,French,9.26,Weekday,5,28,20
+1478227,100338,Restaurant_49,Southern,18.44,Weekday,Not given,32,26
+1478228,100831,Restaurant_155,Mexican,17.09,Weekday,5,20,29
+1478229,100714,Restaurant_35,Japanese,25.74,Weekend,Not given,28,20
+1478230,100361,Restaurant_155,Mediterranean,12.2,Weekday,4,21,32
+1478231,100569,Restaurant_2,American,24.28,Weekday,4,33,23
+1478232,100218,Restaurant_89,Chinese,31.62,Weekday,4,35,22
+1478233,100202,Restaurant_140,Japanese,17.41,Weekday,Not given,32,28
+1478234,100017,Restaurant_162,French,32.66,Weekday,5,20,22
+1478235,100322,Restaurant_155,Middle Eastern,35.2,Weekday,5,35,16
+1478236,100518,Restaurant_144,Italian,7.75,Weekday,4,27,18
+1478237,100681,Restaurant_155,American,11.68,Weekday,5,27,20
+1478238,101106,Restaurant_35,Italian,33.87,Weekday,4,30,17
+1478239,100425,Restaurant_51,Chinese,34.12,Weekend,3,23,17
+1478240,101019,Restaurant_52,Chinese,7.49,Weekend,4,27,25
+1478241,100387,Restaurant_68,Thai,4.93,Weekday,4,26,24
+1478242,100778,Restaurant_70,American,9.45,Weekday,4,32,26
+1478243,100098,Restaurant_95,French,35.29,Weekday,Not given,21,28
+1478244,100208,Restaurant_34,Italian,10.04,Weekday,Not given,24,32
+1478245,100586,Restaurant_127,Indian,20.02,Weekend,4,33,23
+1478246,100166,Restaurant_35,American,30.72,Weekday,3,29,29
+1478247,100022,Restaurant_53,Italian,5.1,Weekday,Not given,23,17
+1478248,100154,Restaurant_87,American,23.17,Weekday,4,35,25
+1478249,100219,Restaurant_141,Korean,13.04,Weekday,4,22,24
+1478250,100669,Restaurant_137,French,31.15,Weekday,Not given,20,32
+1478251,100230,Restaurant_119,Italian,13.24,Weekday,4,24,18
+1478252,100020,Restaurant_34,Chinese,25.72,Weekday,5,29,27
+1478253,100553,Restaurant_95,Southern,25.33,Weekday,Not given,27,20
+1478254,100950,Restaurant_12,Italian,11.32,Weekday,5,31,27
+1478255,100148,Restaurant_68,American,5.55,Weekday,Not given,28,19
+1478256,101132,Restaurant_70,Indian,17.13,Weekday,Not given,26,28
+1478257,100403,Restaurant_8,Southern,13.42,Weekday,Not given,31,27
+1478258,100596,Restaurant_51,American,29.5,Weekday,5,30,28
+1478259,100367,Restaurant_170,Chinese,29.23,Weekday,4,20,22
+1478260,100802,Restaurant_167,Southern,18.61,Weekday,4,20,30
+1478261,100918,Restaurant_61,American,23.24,Weekday,5,34,27
+1478262,101158,Restaurant_8,American,23.17,Weekend,5,35,29
+1478263,100073,Restaurant_35,Indian,30.06,Weekday,4,20,15
+1478264,100481,Restaurant_70,Middle Eastern,17.62,Weekday,4,21,16
+1478265,100560,Restaurant_166,Mexican,12.99,Weekday,5,20,32
+1478266,100745,Restaurant_31,Spanish,12.67,Weekday,4,23,22
+1478267,100100,Restaurant_140,Japanese,21.06,Weekday,Not given,29,17
+1478268,101083,Restaurant_18,American,18.37,Weekday,Not given,28,28
+1478269,100508,Restaurant_179,Spanish,18.09,Weekend,Not given,31,23
+1478270,100258,Restaurant_70,Italian,7.29,Weekday,4,23,22
+1478271,100413,Restaurant_140,Chinese,26.7,Weekday,Not given,32,31
+1478272,101089,Restaurant_56,Mexican,11.08,Weekday,Not given,23,30
+1478273,100595,Restaurant_116,Chinese,10.56,Weekend,5,26,24
+1478274,101178,Restaurant_35,American,17.24,Weekend,5,33,24
+1478275,100266,Restaurant_34,American,11.52,Weekend,4,30,20
+1478276,100821,Restaurant_163,Italian,22.53,Weekday,4,28,31
+1478277,101103,Restaurant_158,French,15.96,Weekend,4,26,30
+1478278,100662,Restaurant_155,Indian,18.36,Weekday,4,20,29
+1478279,100947,Restaurant_116,Spanish,21.09,Weekend,Not given,20,28
+1478280,100560,Restaurant_141,Chinese,10.77,Weekday,4,23,18
+1478281,100917,Restaurant_12,Chinese,9.29,Weekend,5,23,18
+1478282,100891,Restaurant_56,American,31.71,Weekday,Not given,20,16
+1478283,100868,Restaurant_54,American,17.89,Weekday,5,25,25
+1478284,100610,Restaurant_117,Chinese,17.22,Weekday,Not given,29,18
+1478285,100414,Restaurant_63,French,5.57,Weekend,5,21,30
+1478286,100025,Restaurant_34,Mediterranean,19.88,Weekday,Not given,30,18
+1478287,100284,Restaurant_113,Vietnamese,21.62,Weekday,5,24,15
+1478288,100881,Restaurant_141,Chinese,21.76,Weekday,5,27,16
+1478289,100301,Restaurant_70,Mediterranean,26.35,Weekday,5,34,23
+1478290,101092,Restaurant_28,Chinese,9.96,Weekend,Not given,22,27
+1478291,101031,Restaurant_35,American,12.27,Weekday,Not given,35,32
+1478292,100817,Restaurant_46,Middle Eastern,29.55,Weekend,4,28,30
+1478293,101161,Restaurant_53,Indian,33.78,Weekday,Not given,26,30
+1478294,101188,Restaurant_117,American,8.68,Weekday,4,28,24
+1478295,100083,Restaurant_113,Italian,19.87,Weekend,3,20,23
+1478296,101097,Restaurant_128,Chinese,11.1,Weekday,Not given,24,25
+1478297,100046,Restaurant_63,Thai,6.33,Weekday,5,31,18
+1478298,100618,Restaurant_147,Italian,14.54,Weekday,5,32,24
+1478299,100928,Restaurant_36,Vietnamese,8.92,Weekend,Not given,22,17
+1478300,100262,Restaurant_76,American,26.44,Weekday,Not given,23,20
+1478301,100176,Restaurant_141,Italian,20.98,Weekend,Not given,23,17
+1478302,101190,Restaurant_35,Mexican,8.92,Weekend,Not given,30,23
+1478303,100657,Restaurant_18,Mexican,4.76,Weekday,5,31,17
+1478304,100842,Restaurant_155,Chinese,29.47,Weekday,Not given,26,32
+1478305,100370,Restaurant_56,Japanese,9.92,Weekday,4,29,22
+1478306,100054,Restaurant_124,Middle Eastern,23.23,Weekday,Not given,30,22
+1478307,100690,Restaurant_2,Southern,14.89,Weekday,4,27,29
+1478308,101151,Restaurant_127,French,22.58,Weekday,4,30,27
+1478309,100367,Restaurant_54,Middle Eastern,14.24,Weekday,4,29,21
+1478310,100644,Restaurant_10,Mexican,7.16,Weekend,5,24,22
+1478311,100379,Restaurant_113,French,11.37,Weekend,5,32,24
+1478312,100073,Restaurant_46,Chinese,10.29,Weekend,Not given,32,31
+1478313,100915,Restaurant_70,Italian,17.71,Weekday,Not given,31,15
+1478314,100860,Restaurant_12,Chinese,24.84,Weekday,5,29,27
+1478315,100043,Restaurant_34,Mexican,12.63,Weekday,Not given,26,27
+1478316,100377,Restaurant_53,Chinese,4.84,Weekend,4,22,30
+1478317,101065,Restaurant_12,Korean,20.53,Weekday,4,22,23
+1478318,100170,Restaurant_155,Chinese,23.21,Weekend,5,22,24
+1478319,100212,Restaurant_2,American,34.26,Weekday,Not given,31,20
+1478320,100039,Restaurant_81,Mexican,22.71,Weekday,Not given,23,19
+1478321,100369,Restaurant_25,American,19.05,Weekend,4,25,16
+1478322,100757,Restaurant_53,American,22.21,Weekday,4,34,25
+1478323,100151,Restaurant_160,Chinese,33.18,Weekend,5,24,23
+1478324,101135,Restaurant_34,Mexican,30.1,Weekend,4,27,20
+1478325,101071,Restaurant_173,Italian,14.46,Weekday,5,33,22
+1478326,101024,Restaurant_36,French,11.81,Weekday,5,33,23
+1478327,100737,Restaurant_138,Thai,12.6,Weekday,3,31,23
+1478328,100069,Restaurant_95,Italian,20.08,Weekend,Not given,32,22
+1478329,100299,Restaurant_155,Italian,27.49,Weekday,4,24,26
+1478330,100944,Restaurant_98,Chinese,20.04,Weekday,5,30,22
+1478331,100802,Restaurant_93,Thai,6.57,Weekday,3,31,17
+1478332,100296,Restaurant_35,American,26.86,Weekend,Not given,24,27
+1478333,100203,Restaurant_34,American,29.41,Weekday,Not given,35,16
+1478334,100061,Restaurant_157,French,13.43,Weekend,Not given,33,31
+1478335,100946,Restaurant_55,Mexican,25.02,Weekend,4,29,30
+1478336,100963,Restaurant_68,American,17.67,Weekday,Not given,21,18
+1478337,101185,Restaurant_140,Chinese,31.98,Weekday,5,31,32
+1478338,100331,Restaurant_56,Southern,30.62,Weekend,5,30,28
+1478339,100338,Restaurant_166,Middle Eastern,20.73,Weekday,5,30,16
+1478340,100639,Restaurant_136,Japanese,25.87,Weekend,4,24,27
+1478341,100275,Restaurant_113,Mexican,31.8,Weekday,Not given,35,31
+1478342,101188,Restaurant_155,Mexican,19.81,Weekday,Not given,34,29
+1478343,100319,Restaurant_9,Vietnamese,14.16,Weekend,5,31,19
+1478344,100589,Restaurant_51,Korean,27.79,Weekday,5,26,21
+1478345,100504,Restaurant_76,Chinese,11.28,Weekday,5,21,32
+1478346,100387,Restaurant_44,French,16.49,Weekday,5,33,25
+1478347,100870,Restaurant_138,Chinese,31.26,Weekday,4,32,32
+1478348,100833,Restaurant_158,Chinese,26.88,Weekday,Not given,25,19
+1478349,101015,Restaurant_70,Japanese,16.96,Weekday,Not given,26,27
+1478350,100603,Restaurant_56,Italian,11.11,Weekend,3,24,32
+1478351,100691,Restaurant_171,Southern,15.48,Weekday,Not given,28,16
+1478352,100494,Restaurant_71,American,13.26,Weekday,4,33,18
+1478353,100490,Restaurant_81,Mexican,9.92,Weekday,5,23,27
+1478354,100721,Restaurant_61,Mediterranean,27.47,Weekend,4,33,30
+1478355,101097,Restaurant_155,Mediterranean,12.27,Weekday,4,33,20
+1478356,100509,Restaurant_105,American,18.52,Weekend,Not given,32,22
+1478357,100390,Restaurant_140,Italian,16.41,Weekday,5,29,30
+1478358,100295,Restaurant_141,Indian,34.86,Weekday,5,34,27
+1478359,100796,Restaurant_56,American,16.57,Weekday,5,20,18
+1478360,100865,Restaurant_70,Korean,6.94,Weekday,Not given,33,16
+1478361,100549,Restaurant_154,Mediterranean,7.25,Weekday,4,27,23
+1478362,100649,Restaurant_63,American,22.75,Weekday,Not given,34,32
+1478363,100568,Restaurant_141,American,23.01,Weekend,Not given,27,31
+1478364,100853,Restaurant_164,American,17.43,Weekday,5,26,22
+1478365,100770,Restaurant_115,Mediterranean,17.83,Weekday,4,27,29
+1478366,100445,Restaurant_138,Chinese,6.14,Weekday,Not given,21,23
+1478367,100363,Restaurant_141,Italian,20.45,Weekday,4,22,31
+1478368,100123,Restaurant_151,Italian,20.09,Weekday,Not given,28,16
+1478369,100742,Restaurant_70,Indian,9.1,Weekday,5,20,20
+1478370,100680,Restaurant_9,American,7.68,Weekday,5,35,19
+1478371,100420,Restaurant_70,Chinese,8.29,Weekend,Not given,27,31
+1478372,100092,Restaurant_122,Southern,7.6,Weekday,Not given,27,16
+1478373,100063,Restaurant_72,Mediterranean,23.33,Weekday,Not given,26,32
+1478374,100512,Restaurant_140,Thai,10.55,Weekend,3,32,24
+1478375,101163,Restaurant_63,American,12.25,Weekend,Not given,33,24
+1478376,100772,Restaurant_116,Chinese,9.84,Weekday,Not given,30,20
+1478377,100256,Restaurant_35,Indian,34.11,Weekend,Not given,35,26
+1478378,100135,Restaurant_140,Chinese,30.91,Weekday,4,24,31
+1478379,100875,Restaurant_95,Mediterranean,11.6,Weekday,5,23,27
+1478380,100822,Restaurant_36,Indian,14.6,Weekday,Not given,29,30
+1478381,100088,Restaurant_52,American,10.96,Weekday,4,29,24
+1478382,100988,Restaurant_140,Mediterranean,19.69,Weekday,4,32,16
+1478383,101153,Restaurant_81,Korean,5.08,Weekend,4,34,16
+1478384,100823,Restaurant_40,American,25.24,Weekday,4,29,21
+1478385,101027,Restaurant_174,Mexican,20.66,Weekday,4,33,20
+1478386,100974,Restaurant_135,Chinese,32.27,Weekday,5,29,15
+1478387,100934,Restaurant_170,Italian,9.56,Weekend,Not given,25,26
+1478388,100121,Restaurant_70,American,29.35,Weekday,4,31,27
+1478389,101062,Restaurant_77,Indian,28.97,Weekday,4,35,26
+1478390,101008,Restaurant_155,Korean,8.4,Weekday,5,30,23
+1478391,100925,Restaurant_91,Mexican,16.8,Weekday,5,20,24
+1478392,100645,Restaurant_130,American,9.73,Weekend,5,32,31
+1478393,100714,Restaurant_51,Indian,12.35,Weekend,Not given,24,32
+1478394,100860,Restaurant_71,Italian,12.61,Weekday,5,33,22
+1478395,100021,Restaurant_25,Middle Eastern,21.68,Weekend,Not given,23,21
+1478396,100242,Restaurant_36,Italian,17.2,Weekday,5,23,23
+1478397,100455,Restaurant_1,Chinese,33.79,Weekend,5,26,24
+1478398,100963,Restaurant_8,Chinese,8.38,Weekday,5,28,26
+1478399,100621,Restaurant_177,Thai,34.6,Weekday,5,27,29
+1478400,100303,Restaurant_47,Chinese,11.61,Weekday,Not given,30,29
+1478401,100803,Restaurant_121,Thai,28.38,Weekday,Not given,32,18
+1478402,100964,Restaurant_151,Chinese,14.96,Weekday,4,33,18
+1478403,100069,Restaurant_97,Chinese,8.9,Weekday,5,31,15
+1478404,101153,Restaurant_34,Mexican,31.01,Weekday,5,27,26
+1478405,100196,Restaurant_135,Southern,14.03,Weekday,4,24,16
+1478406,100140,Restaurant_113,Southern,24.85,Weekday,Not given,25,29
+1478407,100283,Restaurant_135,Chinese,22.0,Weekday,5,21,31
+1478408,100312,Restaurant_140,Italian,19.07,Weekend,Not given,35,21
+1478409,100746,Restaurant_177,American,19.81,Weekday,4,32,20
+1478410,100277,Restaurant_105,Mexican,27.13,Weekday,5,30,26
+1478411,100061,Restaurant_56,Mexican,7.19,Weekday,4,35,15
+1478412,100052,Restaurant_119,Mediterranean,25.14,Weekend,5,33,28
+1478413,100153,Restaurant_12,Southern,32.19,Weekday,Not given,22,18
+1478414,100544,Restaurant_155,Italian,6.26,Weekday,5,24,19
+1478415,100567,Restaurant_23,Mexican,8.82,Weekend,Not given,21,15
+1478416,100622,Restaurant_55,Mediterranean,26.64,Weekend,5,22,15
+1478417,100314,Restaurant_142,French,18.0,Weekday,Not given,23,20
+1478418,100807,Restaurant_113,American,16.96,Weekday,5,25,19
+1478419,100848,Restaurant_70,Chinese,8.71,Weekday,Not given,24,16
+1478420,100097,Restaurant_77,Italian,20.15,Weekend,Not given,29,19
+1478421,100881,Restaurant_155,Chinese,8.39,Weekday,Not given,23,23
+1478422,100829,Restaurant_56,Chinese,19.22,Weekday,4,32,29
+1478423,100137,Restaurant_155,American,28.1,Weekend,Not given,35,27
+1478424,101030,Restaurant_12,Indian,12.46,Weekday,5,34,26
+1478425,101011,Restaurant_140,Chinese,19.35,Weekday,5,21,19
+1478426,100109,Restaurant_153,American,35.16,Weekday,4,31,16
+1478427,100547,Restaurant_35,Chinese,25.71,Weekday,5,30,18
+1478428,101063,Restaurant_70,French,30.5,Weekday,Not given,24,32
+1478429,100662,Restaurant_34,Middle Eastern,17.31,Weekday,5,24,24
+1478430,100425,Restaurant_130,Mexican,28.23,Weekday,4,30,27
+1478431,100630,Restaurant_93,Italian,5.72,Weekday,4,26,26
+1478432,100261,Restaurant_117,Vietnamese,8.27,Weekend,4,20,16
+1478433,100087,Restaurant_35,Chinese,10.75,Weekday,3,23,29
+1478434,100465,Restaurant_39,Chinese,16.91,Weekend,5,30,28
+1478435,100076,Restaurant_8,Chinese,30.64,Weekday,4,35,24
+1478436,100471,Restaurant_54,American,15.18,Weekend,5,24,22
+1478437,100414,Restaurant_102,Italian,24.72,Weekend,Not given,27,29
+1478438,100825,Restaurant_155,Mediterranean,26.42,Weekday,Not given,31,27
+1478439,100895,Restaurant_121,Indian,22.61,Weekend,Not given,34,22
+1478440,100726,Restaurant_70,Italian,15.52,Weekend,5,31,28
+1478441,100457,Restaurant_167,Southern,22.32,Weekday,5,35,15
+1478442,100653,Restaurant_135,American,15.06,Weekday,5,27,27
+1478443,100672,Restaurant_161,Chinese,7.07,Weekday,5,20,22
+1478444,100495,Restaurant_92,Indian,35.19,Weekend,5,24,32
+1478445,101069,Restaurant_51,Indian,8.41,Weekend,3,29,23
+1478446,100597,Restaurant_10,American,6.71,Weekend,5,20,27
+1478447,100450,Restaurant_135,Italian,31.65,Weekday,4,20,17
+1478448,100485,Restaurant_25,Indian,13.81,Weekend,Not given,21,32
+1478449,100646,Restaurant_53,Japanese,24.59,Weekday,Not given,21,24
+1478450,100620,Restaurant_93,Indian,14.65,Weekday,4,34,19
+1478451,101042,Restaurant_105,Chinese,16.58,Weekday,5,34,20
+1478452,100662,Restaurant_113,American,12.58,Weekday,4,28,22
+1478453,100758,Restaurant_34,Italian,15.08,Weekday,5,23,21
+1478454,100289,Restaurant_70,American,17.18,Weekday,3,22,32
+1478455,100721,Restaurant_114,Southern,26.76,Weekday,5,30,28
+1478456,100638,Restaurant_175,Mexican,20.3,Weekday,Not given,20,29
+1478457,100235,Restaurant_135,Chinese,33.66,Weekday,Not given,31,24
+1478458,100416,Restaurant_158,Thai,5.77,Weekday,4,21,26
+1478459,100938,Restaurant_140,Mexican,20.03,Weekday,5,25,21
+1478460,100499,Restaurant_111,Chinese,22.55,Weekday,5,28,21
+1478461,100974,Restaurant_35,French,32.94,Weekday,Not given,24,25
+1478462,100634,Restaurant_121,Middle Eastern,5.99,Weekday,4,23,27
+1478463,101020,Restaurant_115,Japanese,22.21,Weekday,5,32,29
+1478464,100115,Restaurant_113,American,30.88,Weekday,5,24,32
+1478465,100932,Restaurant_81,Indian,11.96,Weekday,5,28,21
+1478466,100674,Restaurant_92,Thai,31.58,Weekday,Not given,31,20
+1478467,101035,Restaurant_56,American,5.06,Weekend,5,32,25
+1478468,100206,Restaurant_89,Chinese,27.13,Weekday,4,26,22
+1478469,100247,Restaurant_35,Mediterranean,33.34,Weekday,4,27,15
+1478470,100758,Restaurant_141,American,24.8,Weekday,4,34,22
+1478471,101151,Restaurant_35,Thai,18.05,Weekday,Not given,23,22
+1478472,100147,Restaurant_12,Mexican,5.86,Weekday,Not given,30,17
+1478473,100118,Restaurant_70,Italian,32.94,Weekday,4,27,19
+1478474,100412,Restaurant_120,American,19.02,Weekday,5,25,17
+1478475,100363,Restaurant_70,French,5.37,Weekday,4,24,29
+1478476,100137,Restaurant_51,Italian,25.81,Weekday,4,32,28
+1478477,101199,Restaurant_102,Mexican,19.38,Weekend,4,31,29
+1478478,100958,Restaurant_56,Japanese,8.32,Weekend,3,26,31
+1478479,100019,Restaurant_162,Japanese,11.1,Weekend,5,25,32
+1478480,100195,Restaurant_158,Korean,6.47,Weekend,3,22,16
+1478481,100330,Restaurant_87,Mexican,22.24,Weekday,5,24,26
+1478482,100175,Restaurant_55,Italian,23.72,Weekday,Not given,28,30
+1478483,101002,Restaurant_136,Korean,20.12,Weekday,5,26,18
+1478484,100449,Restaurant_6,Indian,29.75,Weekday,Not given,31,16
+1478485,100946,Restaurant_77,Chinese,31.11,Weekend,5,23,28
+1478486,100141,Restaurant_56,American,23.52,Weekday,4,26,25
+1478487,100758,Restaurant_158,Middle Eastern,4.86,Weekend,Not given,24,27
+1478488,100930,Restaurant_2,Italian,25.98,Weekday,5,30,21
+1478489,100093,Restaurant_98,Japanese,17.4,Weekend,Not given,32,24
+1478490,100239,Restaurant_137,Mexican,21.97,Weekday,3,34,15
+1478491,100205,Restaurant_81,Chinese,24.55,Weekday,4,35,18
+1478492,100560,Restaurant_12,Indian,15.31,Weekday,5,21,32
+1478493,100245,Restaurant_176,American,32.85,Weekday,4,32,20
+1478494,100832,Restaurant_89,Italian,8.62,Weekday,4,25,16
+1478495,100925,Restaurant_114,Mexican,25.25,Weekday,4,35,17
+1478496,100295,Restaurant_45,Italian,4.6,Weekend,Not given,26,28
+1478497,100640,Restaurant_81,Thai,33.08,Weekday,4,27,22
+1478498,100856,Restaurant_70,French,7.95,Weekday,5,25,30
+1478499,100017,Restaurant_12,Thai,7.41,Weekday,5,27,32
+1478500,100071,Restaurant_17,American,14.77,Weekend,5,35,20
+1478501,100305,Restaurant_151,Chinese,16.03,Weekday,5,26,28
+1478502,101031,Restaurant_46,Mexican,11.1,Weekday,Not given,21,17
+1478503,100817,Restaurant_35,Southern,22.57,Weekday,Not given,33,30
+1478504,101127,Restaurant_87,French,18.17,Weekday,5,25,15
+1478505,100821,Restaurant_140,Middle Eastern,5.53,Weekday,Not given,28,26
+1478506,100193,Restaurant_12,Chinese,14.36,Weekday,4,31,28
+1478507,100529,Restaurant_105,Italian,29.54,Weekday,Not given,25,23
+1478508,100171,Restaurant_23,Mexican,25.81,Weekday,Not given,23,21
+1478509,100251,Restaurant_5,American,26.9,Weekday,Not given,26,28
+1478510,100541,Restaurant_10,American,26.07,Weekday,5,22,19
+1478511,100416,Restaurant_151,Southern,14.09,Weekday,5,24,32
+1478512,100794,Restaurant_22,Chinese,7.55,Weekend,5,20,23
+1478513,101168,Restaurant_8,Chinese,12.9,Weekday,Not given,34,21
+1478514,100025,Restaurant_70,American,30.21,Weekend,5,29,23
+1478515,100668,Restaurant_151,Southern,34.81,Weekday,Not given,22,18
+1478516,101097,Restaurant_51,Indian,19.75,Weekday,5,27,31
+1478517,100632,Restaurant_70,Japanese,4.77,Weekday,Not given,28,26
+1478518,101117,Restaurant_8,Mediterranean,8.8,Weekend,5,28,20
+1478519,100505,Restaurant_71,Italian,14.44,Weekday,5,34,32
+1478520,100336,Restaurant_105,Indian,22.37,Weekend,5,29,22
+1478521,100425,Restaurant_105,American,6.79,Weekend,4,21,29
+1478522,100499,Restaurant_56,Chinese,33.66,Weekday,5,23,17
+1478523,100947,Restaurant_54,French,15.77,Weekday,Not given,24,16
+1478524,100630,Restaurant_17,Thai,32.71,Weekday,5,34,23
+1478525,100718,Restaurant_66,Italian,28.62,Weekday,5,22,22
+1478526,100339,Restaurant_13,Italian,27.84,Weekend,Not given,32,18
+1478527,100659,Restaurant_140,Mexican,23.24,Weekend,5,30,16
+1478528,100962,Restaurant_173,American,23.86,Weekday,Not given,20,28
+1478529,100429,Restaurant_175,Chinese,24.21,Weekday,Not given,25,16
+1478530,100899,Restaurant_155,Chinese,23.92,Weekend,5,33,16
+1478531,100139,Restaurant_113,Chinese,21.6,Weekday,5,34,21
+1478532,100942,Restaurant_128,French,34.99,Weekend,5,29,26
+1478533,100542,Restaurant_51,Chinese,27.13,Weekday,Not given,21,20
+1478534,100057,Restaurant_116,Chinese,28.51,Weekday,4,35,32
+1478535,100658,Restaurant_74,Mexican,31.46,Weekday,3,28,18
+1478536,100435,Restaurant_81,Middle Eastern,11.14,Weekday,Not given,20,27
+1478537,100384,Restaurant_140,Chinese,7.06,Weekday,5,30,16
+1478538,100560,Restaurant_51,American,19.41,Weekday,Not given,28,22
+1478539,100194,Restaurant_54,Italian,20.38,Weekday,Not given,35,23
+1478540,100534,Restaurant_160,Thai,30.12,Weekend,4,26,18
+1478541,100518,Restaurant_10,Mexican,18.2,Weekend,Not given,30,30
+1478542,100716,Restaurant_81,French,22.13,Weekday,Not given,32,24
+1478543,100751,Restaurant_157,Korean,20.78,Weekday,5,29,20
+1478544,100185,Restaurant_113,French,5.65,Weekday,4,21,30
+1478545,100292,Restaurant_95,Indian,23.5,Weekday,4,33,24
+1478546,100732,Restaurant_50,Mexican,30.09,Weekday,5,25,27
+1478547,100116,Restaurant_56,American,9.34,Weekday,Not given,27,23
+1478548,100825,Restaurant_155,Vietnamese,22.86,Weekday,5,34,21
+1478549,101073,Restaurant_102,Italian,22.84,Weekday,Not given,21,18
+1478550,100685,Restaurant_89,American,9.55,Weekday,4,35,18
+1478551,100082,Restaurant_13,Japanese,8.29,Weekday,5,34,26
+1478552,100834,Restaurant_2,Chinese,34.79,Weekend,Not given,24,27
+1478553,100333,Restaurant_172,Indian,16.65,Weekday,Not given,32,18
+1478554,100557,Restaurant_68,Indian,11.51,Weekday,4,31,24
+1478555,100335,Restaurant_113,Italian,9.77,Weekday,5,30,21
+1478556,100532,Restaurant_12,French,25.13,Weekday,5,25,19
+1478557,100221,Restaurant_123,Chinese,23.33,Weekend,5,22,31
+1478558,100635,Restaurant_162,Italian,24.38,Weekday,5,33,32
+1478559,100323,Restaurant_105,Mexican,7.19,Weekend,4,31,25
+1478560,100003,Restaurant_26,Japanese,32.12,Weekday,Not given,21,29
+1478561,100206,Restaurant_107,Thai,16.51,Weekday,4,35,21
+1478562,100040,Restaurant_140,Italian,14.17,Weekend,Not given,34,32
+1478563,100059,Restaurant_70,Indian,18.78,Weekday,3,30,20
+1478564,100951,Restaurant_155,American,16.54,Weekday,4,25,32
+1478565,100574,Restaurant_119,Southern,31.19,Weekday,Not given,22,30
+1478566,100644,Restaurant_155,Italian,33.22,Weekday,4,21,16
+1478567,100843,Restaurant_115,Japanese,13.86,Weekend,Not given,34,15
+1478568,101146,Restaurant_27,American,31.2,Weekday,5,20,25
+1478569,100619,Restaurant_53,Chinese,28.65,Weekday,5,33,19
+1478570,100096,Restaurant_36,Mexican,33.27,Weekday,Not given,27,30
+1478571,100898,Restaurant_155,Middle Eastern,12.07,Weekday,4,20,15
+1478572,101086,Restaurant_140,Mexican,22.32,Weekday,Not given,31,28
+1478573,100561,Restaurant_122,Southern,12.96,Weekday,Not given,34,17
+1478574,100905,Restaurant_53,Mexican,29.97,Weekday,5,24,16
+1478575,100348,Restaurant_35,Mexican,4.63,Weekend,4,30,19
+1478576,100671,Restaurant_140,American,21.95,Weekday,5,25,31
+1478577,101148,Restaurant_77,French,14.96,Weekday,4,35,32
+1478578,100317,Restaurant_44,Chinese,14.45,Weekend,Not given,30,15
+1478579,100719,Restaurant_114,Mediterranean,24.42,Weekday,5,31,29
+1478580,101072,Restaurant_8,Mediterranean,30.81,Weekday,4,31,23
+1478581,101160,Restaurant_54,Southern,23.32,Weekday,Not given,22,19
+1478582,100250,Restaurant_76,Mexican,30.87,Weekday,5,33,27
+1478583,100314,Restaurant_34,Japanese,12.66,Weekday,Not given,35,24
+1478584,100807,Restaurant_179,Thai,20.54,Weekend,4,26,28
+1478585,100485,Restaurant_37,American,18.41,Weekday,Not given,21,26
+1478586,100044,Restaurant_26,Indian,4.83,Weekday,5,26,25
+1478587,100571,Restaurant_36,American,21.7,Weekend,5,21,21
+1478588,100583,Restaurant_140,Mexican,24.94,Weekday,4,35,31
+1478589,101116,Restaurant_70,American,22.78,Weekday,5,24,32
+1478590,100895,Restaurant_105,Chinese,27.25,Weekday,Not given,26,21
+1478591,100220,Restaurant_2,Italian,22.15,Weekend,5,35,20
+1478592,100925,Restaurant_4,Italian,6.54,Weekday,Not given,30,25
+1478593,100401,Restaurant_71,Indian,8.07,Weekday,4,30,26
+1478594,100727,Restaurant_142,American,22.92,Weekday,5,33,30
+1478595,100991,Restaurant_155,Mexican,12.98,Weekday,5,22,25
+1478596,100899,Restaurant_12,Chinese,6.93,Weekday,4,33,30
+1478597,100858,Restaurant_94,Indian,17.76,Weekday,4,35,26
+1478598,100804,Restaurant_157,Indian,21.62,Weekend,5,30,22
+1478599,100490,Restaurant_70,Mexican,14.64,Weekday,Not given,23,17
+1478600,100938,Restaurant_150,Thai,26.76,Weekday,5,20,16
+1478601,100844,Restaurant_28,Italian,24.39,Weekend,4,35,20
+1478602,100267,Restaurant_162,Thai,14.77,Weekend,4,22,30
+1478603,100054,Restaurant_140,Italian,27.83,Weekday,5,28,29
+1478604,100528,Restaurant_164,Mexican,24.54,Weekday,Not given,29,28
+1478605,100616,Restaurant_122,Indian,24.19,Weekday,5,24,16
+1478606,101083,Restaurant_63,American,21.59,Weekend,5,34,32
+1478607,101064,Restaurant_163,Japanese,4.82,Weekend,5,34,28
+1478608,100955,Restaurant_51,Indian,26.02,Weekday,4,27,32
+1478609,100386,Restaurant_56,Chinese,16.1,Weekend,4,21,16
+1478610,100734,Restaurant_128,American,33.63,Weekday,Not given,22,15
+1478611,100716,Restaurant_140,American,29.78,Weekday,5,26,16
+1478612,100650,Restaurant_160,Southern,22.65,Weekday,5,33,23
+1478613,100300,Restaurant_36,Japanese,12.27,Weekend,Not given,29,23
+1478614,100395,Restaurant_141,American,10.77,Weekday,5,23,30
+1478615,100593,Restaurant_137,Italian,15.0,Weekend,Not given,28,25
+1478616,100514,Restaurant_12,Indian,19.22,Weekend,5,33,20
+1478617,100396,Restaurant_70,French,13.63,Weekday,Not given,26,26
+1478618,100371,Restaurant_51,American,20.4,Weekday,5,33,17
+1478619,100858,Restaurant_53,Chinese,9.59,Weekday,4,30,26
+1478620,100791,Restaurant_179,Mediterranean,34.72,Weekday,5,31,15
+1478621,100658,Restaurant_117,American,7.81,Weekday,5,20,23
+1478622,100736,Restaurant_135,Chinese,33.3,Weekday,5,23,20
+1478623,100384,Restaurant_177,Korean,32.74,Weekend,5,29,25
+1478624,100062,Restaurant_68,Indian,20.72,Weekday,5,30,17
+1478625,100505,Restaurant_141,Chinese,26.9,Weekday,4,25,18
+1478626,100239,Restaurant_70,American,17.96,Weekday,4,25,24
+1478627,100195,Restaurant_155,American,23.96,Weekday,Not given,29,20
+1478628,100678,Restaurant_35,Chinese,15.01,Weekday,3,25,15
+1478629,100061,Restaurant_166,Mediterranean,13.79,Weekday,4,24,22
+1478630,101153,Restaurant_42,Italian,22.36,Weekend,4,22,22
+1478631,100990,Restaurant_54,Japanese,19.88,Weekday,4,21,20
+1478632,100685,Restaurant_140,Mediterranean,22.4,Weekend,4,22,31
+1478633,100156,Restaurant_70,Italian,13.34,Weekend,Not given,28,15
+1478634,100923,Restaurant_113,Chinese,15.82,Weekday,5,22,29
+1478635,100868,Restaurant_71,Mexican,7.07,Weekend,5,22,27
+1478636,100903,Restaurant_138,Mediterranean,6.09,Weekday,3,20,17
+1478637,100999,Restaurant_44,French,12.31,Weekend,5,21,16
+1478638,100975,Restaurant_12,American,6.77,Weekday,Not given,30,17
+1478639,100388,Restaurant_53,Japanese,7.68,Weekend,Not given,31,23
+1478640,100887,Restaurant_77,Indian,29.62,Weekend,5,22,30
+1478641,100838,Restaurant_35,Mediterranean,5.67,Weekend,5,21,27
+1478642,100340,Restaurant_63,American,24.86,Weekend,4,27,32
+1478643,100204,Restaurant_70,Mexican,12.9,Weekday,4,25,26
+1478644,100161,Restaurant_10,Middle Eastern,31.44,Weekday,5,26,26
+1478645,100392,Restaurant_108,Italian,19.48,Weekday,Not given,20,15
+1478646,100769,Restaurant_155,Mexican,13.92,Weekday,4,25,22
+1478647,100575,Restaurant_34,American,20.49,Weekday,5,21,31
+1478648,100534,Restaurant_113,Chinese,16.29,Weekday,5,32,21
+1478649,101094,Restaurant_121,Chinese,21.93,Weekend,Not given,34,23
+1478650,100893,Restaurant_70,Southern,8.01,Weekday,5,25,31
+1478651,100405,Restaurant_128,Chinese,35.32,Weekend,Not given,22,24
+1478652,100608,Restaurant_70,Mexican,17.64,Weekday,4,26,18
+1478653,100828,Restaurant_87,Japanese,15.24,Weekend,4,22,21
+1478654,101144,Restaurant_2,American,26.44,Weekend,Not given,28,21
+1478655,100690,Restaurant_127,Mexican,15.73,Weekday,Not given,22,22
+1478656,100902,Restaurant_121,Thai,30.25,Weekday,5,26,22
+1478657,100056,Restaurant_8,Middle Eastern,18.53,Weekend,5,31,30
+1478658,100366,Restaurant_66,Indian,26.73,Weekday,Not given,23,26
+1478659,100455,Restaurant_178,Japanese,7.79,Weekday,4,27,29
+1478660,100104,Restaurant_70,American,30.65,Weekday,5,33,22
+1478661,100077,Restaurant_87,Southern,27.23,Weekday,Not given,21,23
+1478662,100230,Restaurant_155,American,11.02,Weekday,5,27,17
+1478663,100331,Restaurant_135,Thai,8.97,Weekday,5,28,30
+1478664,100893,Restaurant_107,Chinese,14.26,Weekday,5,32,29
+1478665,100688,Restaurant_141,Southern,34.67,Weekday,4,27,18
+1478666,100027,Restaurant_155,Japanese,12.42,Weekend,3,25,30
+1478667,100299,Restaurant_74,Thai,18.58,Weekday,5,29,24
+1478668,100957,Restaurant_77,Chinese,5.4,Weekend,5,20,25
+1478669,100799,Restaurant_70,Italian,16.76,Weekday,5,26,19
+1478670,101115,Restaurant_174,Indian,22.15,Weekday,3,20,25
+1478671,100480,Restaurant_128,Thai,33.96,Weekday,5,26,27
+1478672,100573,Restaurant_12,American,20.46,Weekday,Not given,33,29
+1478673,100458,Restaurant_155,Korean,29.81,Weekday,5,21,20
+1478674,100365,Restaurant_81,Mediterranean,21.4,Weekday,Not given,27,30
+1478675,100859,Restaurant_12,Chinese,5.73,Weekday,5,21,29
+1478676,100351,Restaurant_97,French,14.22,Weekday,Not given,22,25
+1478677,100253,Restaurant_70,Mexican,22.28,Weekday,5,32,16
+1478678,100781,Restaurant_155,Mexican,33.88,Weekday,5,31,16
+1478679,100803,Restaurant_36,Chinese,31.05,Weekday,Not given,22,26
+1478680,101012,Restaurant_148,Indian,11.54,Weekend,Not given,20,30
+1478681,100459,Restaurant_102,Japanese,11.28,Weekday,4,24,16
+1478682,100917,Restaurant_10,Italian,10.69,Weekday,Not given,24,31
+1478683,100499,Restaurant_175,Indian,33.01,Weekend,4,29,28
+1478684,100950,Restaurant_89,Japanese,30.85,Weekday,Not given,24,30
+1478685,100508,Restaurant_52,Japanese,28.44,Weekday,5,33,19
+1478686,100501,Restaurant_76,American,16.62,Weekend,4,32,24
+1478687,100803,Restaurant_155,Middle Eastern,20.08,Weekday,4,28,31
+1478688,100598,Restaurant_53,Italian,18.84,Weekday,5,25,27
+1478689,100166,Restaurant_35,Chinese,12.31,Weekday,Not given,25,30
+1478690,100462,Restaurant_26,Chinese,20.1,Weekday,5,22,23
+1478691,100920,Restaurant_53,Mexican,5.41,Weekday,5,24,18
+1478692,100114,Restaurant_140,Mediterranean,8.55,Weekday,4,29,30
+1478693,100992,Restaurant_77,Italian,31.9,Weekday,3,26,25
+1478694,100207,Restaurant_44,Thai,27.73,Weekday,5,22,21
+1478695,100515,Restaurant_34,American,17.55,Weekend,4,21,31
+1478696,100709,Restaurant_56,Mexican,20.47,Weekend,Not given,24,27
+1478697,101149,Restaurant_164,Spanish,15.92,Weekday,5,22,18
+1478698,100138,Restaurant_56,Thai,27.39,Weekday,3,24,28
+1478699,100339,Restaurant_179,Chinese,28.73,Weekday,Not given,28,24
+1478700,100537,Restaurant_81,Mexican,28.09,Weekday,4,30,24
+1478701,100068,Restaurant_35,Chinese,26.83,Weekday,Not given,29,24
+1478702,100383,Restaurant_155,Italian,10.8,Weekday,Not given,20,26
+1478703,100019,Restaurant_75,Thai,14.93,Weekend,4,23,16
+1478704,100683,Restaurant_131,Thai,19.01,Weekday,4,29,23
+1478705,100074,Restaurant_179,Chinese,14.7,Weekday,Not given,34,19
+1478706,100573,Restaurant_9,Southern,27.83,Weekday,4,35,22
+1478707,100939,Restaurant_13,Indian,14.66,Weekday,Not given,24,28
+1478708,101072,Restaurant_135,Italian,8.75,Weekend,5,21,21
+1478709,100211,Restaurant_51,Mexican,16.82,Weekend,5,31,21
+1478710,100855,Restaurant_35,Indian,34.79,Weekend,5,21,23
+1478711,100651,Restaurant_8,Mexican,11.46,Weekday,5,20,17
+1478712,100994,Restaurant_2,Mexican,23.41,Weekday,5,33,28
+1478713,100695,Restaurant_140,Mexican,17.87,Weekday,Not given,27,31
+1478714,100540,Restaurant_29,American,6.67,Weekday,3,21,32
+1478715,100901,Restaurant_76,French,19.56,Weekday,3,22,26
+1478716,100780,Restaurant_113,Mexican,26.19,Weekend,4,34,28
+1478717,101137,Restaurant_70,American,20.35,Weekday,Not given,31,27
+1478718,100170,Restaurant_3,Thai,31.45,Weekday,4,21,28
+1478719,101038,Restaurant_140,Southern,13.41,Weekday,Not given,23,23
+1478720,100288,Restaurant_2,Southern,7.14,Weekday,5,33,16
+1478721,100189,Restaurant_140,Italian,33.45,Weekday,Not given,20,25
+1478722,100914,Restaurant_155,American,16.17,Weekend,Not given,22,31
+1478723,101179,Restaurant_70,Mexican,22.3,Weekend,5,24,16
+1478724,100694,Restaurant_93,American,28.97,Weekend,4,29,21
+1478725,100888,Restaurant_77,Southern,14.5,Weekday,4,20,32
+1478726,100471,Restaurant_70,Chinese,26.63,Weekday,5,35,27
+1478727,101099,Restaurant_155,Chinese,8.66,Weekday,4,23,19
+1478728,100277,Restaurant_155,Italian,13.48,Weekday,5,25,32
+1478729,100940,Restaurant_56,Italian,8.95,Weekend,5,34,30
+1478730,100571,Restaurant_114,French,29.57,Weekday,Not given,23,29
+1478731,100857,Restaurant_160,Italian,11.36,Weekday,3,26,22
+1478732,101001,Restaurant_171,American,26.67,Weekday,Not given,33,29
+1478733,100458,Restaurant_88,Chinese,33.66,Weekday,3,26,15
+1478734,100918,Restaurant_74,Mexican,20.8,Weekend,5,25,31
+1478735,100833,Restaurant_51,American,21.18,Weekday,4,28,29
+1478736,101088,Restaurant_170,Indian,18.73,Weekday,3,21,28
+1478737,100839,Restaurant_32,Indian,14.55,Weekday,Not given,32,28
+1478738,100193,Restaurant_106,Japanese,19.19,Weekday,5,29,24
+1478739,100616,Restaurant_51,Southern,23.12,Weekend,Not given,27,16
+1478740,100406,Restaurant_51,Mediterranean,34.98,Weekend,Not given,27,20
+1478741,100943,Restaurant_70,Southern,33.48,Weekend,3,30,31
+1478742,100721,Restaurant_179,Chinese,31.15,Weekend,Not given,29,19
+1478743,100093,Restaurant_10,American,31.98,Weekday,4,33,19
+1478744,100430,Restaurant_105,Chinese,18.95,Weekday,Not given,33,29
+1478745,100654,Restaurant_12,Mediterranean,24.81,Weekday,Not given,30,29
+1478746,100434,Restaurant_34,Vietnamese,32.16,Weekday,5,23,25
+1478747,101136,Restaurant_70,Middle Eastern,16.63,Weekend,Not given,25,19
+1478748,100375,Restaurant_89,American,34.23,Weekday,4,30,15
+1478749,101083,Restaurant_51,Southern,17.33,Weekend,4,25,25
+1478750,101067,Restaurant_54,Italian,23.07,Weekday,4,24,25
+1478751,100207,Restaurant_12,American,26.43,Weekday,5,33,20
+1478752,100780,Restaurant_53,Italian,33.88,Weekday,4,20,22
+1478753,101142,Restaurant_173,American,12.04,Weekend,Not given,22,16
+1478754,100532,Restaurant_166,Mexican,27.56,Weekday,5,26,29
+1478755,100166,Restaurant_56,Italian,20.58,Weekday,5,27,23
+1478756,100643,Restaurant_105,Mexican,12.78,Weekday,5,21,29
+1478757,101180,Restaurant_155,Indian,28.5,Weekday,4,22,22
+1478758,100090,Restaurant_2,Middle Eastern,21.56,Weekday,Not given,23,30
+1478759,101118,Restaurant_141,Japanese,24.92,Weekend,Not given,33,28
+1478760,100013,Restaurant_166,Italian,14.46,Weekday,Not given,30,29
+1478761,100973,Restaurant_12,French,19.36,Weekday,4,24,27
+1478762,100805,Restaurant_34,Mediterranean,23.57,Weekday,5,22,23
+1478763,100945,Restaurant_171,American,17.0,Weekday,Not given,24,15
+1478764,100742,Restaurant_94,Mexican,10.61,Weekend,Not given,27,20
+1478765,100876,Restaurant_2,Chinese,34.22,Weekday,4,27,22
+1478766,101174,Restaurant_51,American,20.29,Weekday,Not given,33,32
+1478767,100660,Restaurant_71,Japanese,27.18,Weekday,Not given,21,32
+1478768,101032,Restaurant_127,Middle Eastern,17.19,Weekend,Not given,25,31
+1478769,101053,Restaurant_135,American,15.46,Weekend,5,23,30
+1478770,100296,Restaurant_179,French,17.07,Weekday,Not given,28,27
+1478771,100986,Restaurant_52,Middle Eastern,17.13,Weekday,5,29,18
+1478772,100926,Restaurant_94,Mediterranean,21.31,Weekday,5,21,18
+1478773,100640,Restaurant_93,Chinese,21.28,Weekend,4,27,28
+1478774,100340,Restaurant_70,Mediterranean,19.85,Weekday,5,20,19
+1478775,100628,Restaurant_35,Chinese,8.64,Weekday,5,30,30
+1478776,100439,Restaurant_177,Mexican,19.82,Weekday,5,25,28
+1478777,101168,Restaurant_155,American,9.7,Weekday,3,30,28
+1478778,100942,Restaurant_85,American,8.37,Weekday,Not given,30,28
+1478779,100830,Restaurant_113,Japanese,33.33,Weekend,Not given,33,28
+1478780,100519,Restaurant_44,Italian,23.19,Weekday,5,31,17
+1478781,100976,Restaurant_95,Chinese,24.87,Weekday,4,29,31
+1478782,101069,Restaurant_127,Chinese,16.9,Weekday,Not given,32,28
+1478783,100955,Restaurant_89,Japanese,32.59,Weekend,5,20,24
+1478784,100952,Restaurant_179,American,24.21,Weekday,Not given,21,27
+1478785,100944,Restaurant_113,French,28.27,Weekend,Not given,22,18
+1478786,100155,Restaurant_68,American,15.87,Weekday,5,28,25
+1478787,100088,Restaurant_140,Chinese,34.17,Weekday,Not given,24,29
+1478788,101097,Restaurant_35,Italian,29.86,Weekday,Not given,29,29
+1478789,100931,Restaurant_70,Mexican,30.89,Weekday,5,29,16
+1478790,100179,Restaurant_56,Italian,9.8,Weekday,5,31,25
+1478791,100212,Restaurant_70,Chinese,12.85,Weekend,5,21,16
+1478792,100465,Restaurant_140,Korean,13.31,Weekday,5,29,19
+1478793,100631,Restaurant_81,Indian,12.85,Weekday,4,24,27
+1478794,100825,Restaurant_141,American,30.94,Weekday,4,24,15
+1478795,100607,Restaurant_105,Italian,5.46,Weekend,5,20,21
+1478796,100885,Restaurant_56,Middle Eastern,6.82,Weekend,Not given,22,21
+1478797,100366,Restaurant_141,Chinese,12.94,Weekday,5,24,24
+1478798,100276,Restaurant_46,American,10.65,Weekend,5,28,20
+1478799,100380,Restaurant_44,Thai,11.64,Weekday,5,29,26
+1478800,100945,Restaurant_87,Indian,29.16,Weekday,4,35,27
+1478801,101088,Restaurant_51,Indian,21.89,Weekend,4,20,25
+1478802,100810,Restaurant_2,American,4.65,Weekend,5,27,32
+1478803,100925,Restaurant_119,American,17.75,Weekday,5,20,16
+1478804,100494,Restaurant_89,Indian,17.09,Weekday,Not given,28,30
+1478805,101122,Restaurant_71,Chinese,8.0,Weekday,Not given,35,16
+1478806,101095,Restaurant_174,Mexican,25.39,Weekend,5,25,20
+1478807,100364,Restaurant_105,Mexican,26.19,Weekday,5,20,15
+1478808,100570,Restaurant_155,Chinese,26.77,Weekday,4,27,25
+1478809,100763,Restaurant_31,Southern,27.01,Weekday,Not given,24,32
+1478810,100276,Restaurant_105,Middle Eastern,4.47,Weekday,4,26,24
+1478811,100050,Restaurant_155,Japanese,33.98,Weekday,Not given,26,32
+1478812,100728,Restaurant_108,American,29.66,Weekend,4,34,15
+1478813,100906,Restaurant_135,American,32.44,Weekday,4,26,30
+1478814,100928,Restaurant_68,Mexican,4.95,Weekday,3,25,21
+1478815,100564,Restaurant_12,American,33.36,Weekday,Not given,30,29
+1478816,100783,Restaurant_74,Vietnamese,29.52,Weekend,Not given,27,15
+1478817,100485,Restaurant_70,American,30.37,Weekday,5,28,23
+1478818,101108,Restaurant_155,Mexican,7.36,Weekday,5,31,16
+1478819,100584,Restaurant_48,Italian,27.33,Weekend,4,34,31
+1478820,100236,Restaurant_174,Indian,34.17,Weekend,5,21,24
+1478821,100056,Restaurant_170,American,25.46,Weekend,Not given,26,20
+1478822,100360,Restaurant_49,Italian,22.12,Weekend,Not given,34,19
+1478823,100110,Restaurant_57,Chinese,33.73,Weekday,Not given,21,22
+1478824,100192,Restaurant_155,Mediterranean,18.17,Weekend,Not given,25,22
+1478825,100904,Restaurant_173,American,23.01,Weekday,5,21,19
+1478826,101117,Restaurant_71,Mediterranean,19.21,Weekend,Not given,29,26
+1478827,100862,Restaurant_54,French,33.33,Weekend,Not given,25,21
+1478828,100568,Restaurant_92,Chinese,6.82,Weekend,5,21,27
+1478829,101084,Restaurant_127,Thai,19.97,Weekday,Not given,20,27
+1478830,100650,Restaurant_51,American,25.72,Weekday,5,26,31
+1478831,100039,Restaurant_135,Korean,28.97,Weekday,Not given,22,18
+1478832,101073,Restaurant_9,Mexican,22.51,Weekend,4,33,32
+1478833,100637,Restaurant_9,Chinese,32.59,Weekend,5,31,24
+1478834,101037,Restaurant_70,Italian,33.62,Weekday,3,33,17
+1478835,100036,Restaurant_62,American,6.46,Weekday,3,32,26
+1478836,100101,Restaurant_54,Vietnamese,16.92,Weekday,5,23,15
+1478837,101110,Restaurant_82,American,5.2,Weekend,5,32,25
+1478838,100166,Restaurant_54,Japanese,14.66,Weekend,4,35,32
+1478839,100383,Restaurant_35,Italian,21.08,Weekday,4,35,27
+1478840,100790,Restaurant_53,Southern,32.65,Weekday,Not given,25,31
+1478841,100031,Restaurant_177,Chinese,30.66,Weekend,Not given,24,22
+1478842,100011,Restaurant_70,Mexican,8.41,Weekend,4,23,31
+1478843,100096,Restaurant_71,Mexican,7.35,Weekday,Not given,28,16
+1478844,100453,Restaurant_105,Japanese,22.7,Weekday,4,25,17
+1478845,100192,Restaurant_179,American,20.93,Weekday,Not given,25,17
+1478846,100486,Restaurant_46,Chinese,12.71,Weekday,5,21,20
+1478847,101152,Restaurant_122,Chinese,32.3,Weekday,5,25,24
+1478848,100238,Restaurant_135,Thai,33.16,Weekday,3,26,32
+1478849,101136,Restaurant_113,Chinese,16.93,Weekend,5,27,32
+1478850,101169,Restaurant_12,Indian,32.02,Weekday,Not given,34,28
+1478851,101089,Restaurant_122,Chinese,16.35,Weekend,Not given,33,30
+1478852,100735,Restaurant_12,Middle Eastern,27.27,Weekday,4,27,21
+1478853,100991,Restaurant_113,Southern,19.2,Weekday,4,35,15
+1478854,100825,Restaurant_137,Mexican,8.26,Weekday,Not given,28,31
+1478855,100106,Restaurant_39,Italian,33.18,Weekday,Not given,29,19
+1478856,100181,Restaurant_151,Chinese,18.52,Weekend,5,30,15
+1478857,100184,Restaurant_3,American,27.2,Weekend,5,32,31
+1478858,100226,Restaurant_151,Chinese,15.83,Weekday,3,31,24
+1478859,100777,Restaurant_75,Japanese,5.05,Weekday,4,22,26
+1478860,100790,Restaurant_41,Mexican,7.58,Weekend,5,29,16
+1478861,101113,Restaurant_28,Southern,19.82,Weekday,5,34,30
+1478862,100688,Restaurant_167,Italian,25.82,Weekday,Not given,26,29
+1478863,100530,Restaurant_12,Japanese,14.83,Weekend,3,26,27
+1478864,100972,Restaurant_35,Mexican,25.99,Weekday,Not given,20,32
+1478865,100936,Restaurant_56,Mexican,26.09,Weekday,Not given,27,28
+1478866,100106,Restaurant_115,Chinese,26.25,Weekday,Not given,34,32
+1478867,100831,Restaurant_95,Italian,19.71,Weekend,5,23,16
+1478868,100679,Restaurant_26,Mexican,32.78,Weekday,Not given,24,16
+1478869,100849,Restaurant_52,Japanese,19.61,Weekday,5,33,17
+1478870,101056,Restaurant_46,Southern,18.4,Weekend,3,25,19
+1478871,100393,Restaurant_39,Chinese,10.64,Weekday,4,22,30
+1478872,100040,Restaurant_70,American,13.99,Weekend,5,24,29
+1478873,100660,Restaurant_128,Mexican,5.78,Weekday,Not given,29,26
+1478874,100981,Restaurant_41,Mexican,24.07,Weekend,Not given,24,23
+1478875,101106,Restaurant_66,American,12.16,Weekday,5,20,28
+1478876,100845,Restaurant_70,Thai,13.88,Weekday,4,22,30
+1478877,100201,Restaurant_177,Vietnamese,28.32,Weekday,5,22,25
+1478878,100447,Restaurant_168,Southern,14.59,Weekday,4,20,20
+1478879,101062,Restaurant_141,Chinese,11.96,Weekend,Not given,32,24
+1478880,100444,Restaurant_46,Middle Eastern,9.7,Weekend,5,26,22
+1478881,100761,Restaurant_12,Japanese,28.44,Weekday,Not given,20,30
+1478882,100227,Restaurant_54,Italian,8.48,Weekday,5,26,17
+1478883,100048,Restaurant_51,Mexican,18.51,Weekend,3,23,16
+1478884,101042,Restaurant_88,Middle Eastern,20.15,Weekend,3,28,30
+1478885,100912,Restaurant_140,Mexican,25.74,Weekday,5,26,23
+1478886,100187,Restaurant_155,Italian,24.06,Weekday,5,24,30
+1478887,100345,Restaurant_151,Mexican,29.55,Weekday,Not given,26,18
+1478888,100224,Restaurant_63,Indian,5.85,Weekday,Not given,28,24
+1478889,100830,Restaurant_127,Chinese,13.64,Weekday,5,29,27
+1478890,100488,Restaurant_53,Mediterranean,13.14,Weekday,4,25,32
+1478891,100877,Restaurant_12,Japanese,8.99,Weekday,5,20,29
+1478892,100849,Restaurant_128,Indian,13.42,Weekend,5,25,18
+1478893,100979,Restaurant_2,American,14.05,Weekday,4,20,23
+1478894,101017,Restaurant_70,Indian,20.62,Weekday,5,32,18
+1478895,100188,Restaurant_55,American,25.01,Weekday,Not given,31,30
+1478896,100270,Restaurant_127,American,16.26,Weekday,Not given,23,29
+1478897,100310,Restaurant_140,Mexican,26.73,Weekday,Not given,33,16
+1478898,101156,Restaurant_53,Italian,14.87,Weekday,Not given,27,28
+1478899,101096,Restaurant_141,Indian,13.45,Weekday,Not given,35,17
+1478900,100845,Restaurant_53,American,21.21,Weekday,4,24,18
+1478901,100486,Restaurant_71,Italian,5.2,Weekday,4,34,15
+1478902,100120,Restaurant_135,American,6.94,Weekday,Not given,24,23
+1478903,100220,Restaurant_127,Vietnamese,17.4,Weekend,3,35,31
+1478904,100053,Restaurant_179,Indian,33.64,Weekday,5,32,28
+1478905,100758,Restaurant_44,Japanese,26.79,Weekend,Not given,29,31
+1478906,100738,Restaurant_121,Chinese,7.2,Weekday,Not given,30,15
+1478907,100720,Restaurant_113,American,30.66,Weekday,Not given,27,24
+1478908,100406,Restaurant_157,Vietnamese,27.13,Weekday,4,27,30
+1478909,100608,Restaurant_34,Chinese,23.37,Weekday,3,20,17
+1478910,101021,Restaurant_140,Italian,29.85,Weekend,Not given,32,26
+1478911,100422,Restaurant_105,Indian,16.97,Weekday,5,32,17
+1478912,100712,Restaurant_51,American,11.32,Weekend,3,24,29
+1478913,100247,Restaurant_77,French,20.31,Weekday,5,31,31
+1478914,100072,Restaurant_56,Mexican,21.45,Weekday,3,24,32
+1478915,100185,Restaurant_105,Chinese,21.13,Weekday,4,27,21
+1478916,100006,Restaurant_155,American,21.95,Weekday,5,20,21
+1478917,100906,Restaurant_105,American,33.82,Weekday,5,26,19
+1478918,100387,Restaurant_116,Mediterranean,32.39,Weekday,4,26,22
+1478919,100699,Restaurant_89,Japanese,31.56,Weekday,5,32,30
+1478920,101100,Restaurant_9,Chinese,29.27,Weekday,5,28,30
+1478921,100827,Restaurant_44,American,33.66,Weekend,Not given,21,29
+1478922,100349,Restaurant_82,Japanese,7.52,Weekend,5,34,21
+1478923,100308,Restaurant_53,Indian,12.67,Weekend,4,35,19
+1478924,101151,Restaurant_35,Italian,19.79,Weekday,Not given,22,25
+1478925,100287,Restaurant_87,Italian,30.66,Weekday,5,23,24
+1478926,100766,Restaurant_54,Chinese,20.1,Weekday,5,20,23
+1478927,100725,Restaurant_51,Japanese,27.61,Weekend,4,34,15
+1478928,100762,Restaurant_75,Vietnamese,8.77,Weekday,Not given,26,15
+1478929,100383,Restaurant_28,American,12.28,Weekday,Not given,33,22
+1478930,100388,Restaurant_160,Indian,27.11,Weekend,Not given,29,17
+1478931,100525,Restaurant_155,Italian,9.57,Weekday,Not given,22,16
+1478932,100639,Restaurant_130,Italian,15.34,Weekday,5,22,18
+1478933,100938,Restaurant_17,Chinese,12.66,Weekday,5,22,25
+1478934,100276,Restaurant_140,French,15.29,Weekday,5,27,19
+1478935,100500,Restaurant_141,Mexican,26.39,Weekday,5,28,24
+1478936,100717,Restaurant_140,Mexican,15.85,Weekday,Not given,29,22
+1478937,100337,Restaurant_21,Chinese,21.65,Weekday,3,32,27
+1478938,100932,Restaurant_119,Chinese,7.56,Weekday,5,33,19
+1478939,100481,Restaurant_151,American,29.38,Weekend,Not given,21,26
+1478940,100911,Restaurant_105,Japanese,15.91,Weekday,5,29,27
+1478941,101082,Restaurant_119,Chinese,24.54,Weekday,4,34,22
+1478942,100109,Restaurant_74,Japanese,26.91,Weekday,3,29,29
+1478943,100328,Restaurant_92,Italian,10.96,Weekend,4,20,27
+1478944,100315,Restaurant_4,Italian,31.84,Weekday,4,33,15
+1478945,101135,Restaurant_117,Mexican,23.54,Weekday,5,28,20
+1478946,100699,Restaurant_12,Italian,17.73,Weekend,4,25,25
+1478947,100781,Restaurant_70,American,10.11,Weekend,Not given,33,27
+1478948,100156,Restaurant_53,Chinese,33.62,Weekday,Not given,34,15
+1478949,100887,Restaurant_95,Japanese,27.83,Weekend,4,28,25
+1478950,101026,Restaurant_28,Japanese,10.91,Weekday,4,25,25
+1478951,100758,Restaurant_127,Chinese,14.92,Weekday,Not given,21,22
+1478952,100722,Restaurant_141,Mexican,29.52,Weekday,Not given,20,17
+1478953,100913,Restaurant_34,Chinese,25.99,Weekday,5,33,26
+1478954,100871,Restaurant_15,Chinese,28.16,Weekend,4,27,20
+1478955,100013,Restaurant_34,American,18.12,Weekday,Not given,22,22
+1478956,100608,Restaurant_155,Mediterranean,26.64,Weekday,4,20,19
+1478957,100498,Restaurant_92,Chinese,16.43,Weekend,5,34,24
+1478958,100238,Restaurant_76,Chinese,11.01,Weekend,4,35,30
+1478959,101118,Restaurant_17,Chinese,24.05,Weekday,5,27,26
+1478960,100781,Restaurant_119,American,34.67,Weekday,4,31,31
+1478961,101195,Restaurant_155,Indian,14.08,Weekday,4,20,20
+1478962,100606,Restaurant_148,American,18.73,Weekend,Not given,27,23
+1478963,100661,Restaurant_116,American,25.32,Weekday,4,20,24
+1478964,100849,Restaurant_12,Indian,21.22,Weekend,5,28,28
+1478965,100936,Restaurant_20,Italian,30.57,Weekday,5,33,28
+1478966,100628,Restaurant_9,Japanese,28.04,Weekday,Not given,28,31
+1478967,100143,Restaurant_51,Mexican,6.27,Weekday,5,31,30
+1478968,100714,Restaurant_29,Chinese,35.36,Weekday,4,32,18
+1478969,100479,Restaurant_51,Japanese,27.75,Weekday,5,28,16
+1478970,100565,Restaurant_70,American,31.2,Weekend,Not given,22,30
+1478971,100471,Restaurant_165,Mexican,24.62,Weekday,4,23,15
+1478972,100384,Restaurant_113,Italian,30.96,Weekday,5,24,17
+1478973,100926,Restaurant_151,Chinese,7.95,Weekend,5,25,25
+1478974,100417,Restaurant_131,Indian,15.23,Weekday,Not given,28,30
+1478975,100308,Restaurant_20,Middle Eastern,31.59,Weekend,4,32,32
+1478976,100649,Restaurant_135,Spanish,10.71,Weekday,Not given,30,29
+1478977,101025,Restaurant_51,Indian,6.89,Weekday,Not given,31,23
+1478978,101068,Restaurant_117,Italian,28.85,Weekday,Not given,23,26
+1478979,100739,Restaurant_56,Chinese,30.32,Weekday,5,33,32
+1478980,101122,Restaurant_179,Chinese,9.5,Weekend,Not given,33,19
+1478981,100140,Restaurant_51,Mexican,30.9,Weekday,5,25,22
+1478982,100974,Restaurant_51,Italian,25.72,Weekday,5,32,17
+1478983,101017,Restaurant_161,Mediterranean,20.56,Weekday,Not given,20,16
+1478984,100953,Restaurant_2,Italian,30.16,Weekday,5,21,22
+1478985,100904,Restaurant_128,Italian,17.44,Weekend,5,27,16
+1478986,100072,Restaurant_135,Italian,10.47,Weekday,5,23,15
+1478987,100107,Restaurant_151,French,13.28,Weekday,4,29,27
+1478988,101066,Restaurant_177,Japanese,20.1,Weekend,4,26,31
+1478989,100883,Restaurant_177,Indian,20.91,Weekday,Not given,23,17
+1478990,100139,Restaurant_12,Italian,29.39,Weekend,Not given,35,23
+1478991,100615,Restaurant_145,French,28.95,Weekday,3,33,19
+1478992,100863,Restaurant_119,American,22.46,Weekday,5,35,20
+1478993,100273,Restaurant_119,Middle Eastern,28.63,Weekday,Not given,28,18
+1478994,100416,Restaurant_26,Mexican,10.4,Weekend,5,28,31
+1478995,100506,Restaurant_119,Italian,6.02,Weekend,5,23,30
+1478996,100733,Restaurant_179,Mexican,31.5,Weekday,5,32,30
+1478997,100424,Restaurant_156,Japanese,6.81,Weekday,4,34,25
+1478998,100390,Restaurant_70,American,12.1,Weekday,5,27,16
+1478999,100342,Restaurant_8,Middle Eastern,25.98,Weekday,5,25,31
+1479000,100946,Restaurant_63,Italian,17.14,Weekday,5,20,29
+1479001,100614,Restaurant_148,Italian,31.58,Weekend,5,34,32
+1479002,100493,Restaurant_128,American,13.69,Weekday,4,26,24
+1479003,100192,Restaurant_74,Italian,4.84,Weekday,Not given,20,20
+1479004,100499,Restaurant_10,Mexican,13.77,Weekday,Not given,22,30
+1479005,100822,Restaurant_70,Italian,22.36,Weekday,5,27,19
+1479006,100227,Restaurant_76,Japanese,16.1,Weekday,5,34,26
+1479007,100139,Restaurant_160,Italian,21.02,Weekday,Not given,28,20
+1479008,100856,Restaurant_117,Korean,31.59,Weekend,5,22,28
+1479009,100817,Restaurant_53,Indian,32.7,Weekday,Not given,20,30
+1479010,101173,Restaurant_91,French,12.7,Weekday,5,20,21
+1479011,101139,Restaurant_12,American,18.77,Weekday,Not given,26,16
+1479012,101087,Restaurant_176,Italian,21.46,Weekend,5,24,20
+1479013,100104,Restaurant_63,Italian,33.84,Weekend,4,32,23
+1479014,100871,Restaurant_79,Indian,35.37,Weekday,Not given,33,21
+1479015,100668,Restaurant_63,Middle Eastern,11.75,Weekday,4,35,16
+1479016,100273,Restaurant_123,American,26.96,Weekday,5,20,22
+1479017,101030,Restaurant_121,American,16.17,Weekday,4,35,25
+1479018,101171,Restaurant_135,Middle Eastern,4.72,Weekday,Not given,25,18
+1479019,100184,Restaurant_51,Chinese,4.76,Weekday,5,33,30
+1479020,101052,Restaurant_54,Japanese,18.72,Weekday,5,25,32
+1479021,101143,Restaurant_26,Mexican,19.58,Weekend,4,33,27
+1479022,100293,Restaurant_119,French,5.17,Weekend,5,23,19
+1479023,100177,Restaurant_8,American,25.72,Weekday,3,26,16
+1479024,100058,Restaurant_113,American,13.57,Weekday,5,26,25
+1479025,100308,Restaurant_155,Mexican,21.79,Weekday,4,31,15
+1479026,100977,Restaurant_155,Southern,13.78,Weekday,5,28,27
+1479027,101129,Restaurant_71,Italian,9.64,Weekday,4,31,19
+1479028,100700,Restaurant_74,Chinese,17.07,Weekday,5,20,32
+1479029,100083,Restaurant_12,Indian,11.66,Weekday,5,24,28
+1479030,100252,Restaurant_122,Southern,21.02,Weekend,5,34,27
+1479031,100796,Restaurant_145,French,10.62,Weekday,Not given,29,21
+1479032,100897,Restaurant_48,Spanish,20.2,Weekday,5,22,22
+1479033,100210,Restaurant_70,American,9.34,Weekend,Not given,26,32
+1479034,100816,Restaurant_151,American,25.23,Weekday,5,23,21
+1479035,100609,Restaurant_155,Indian,27.8,Weekday,5,23,31
+1479036,100447,Restaurant_48,French,7.89,Weekday,4,32,30
+1479037,100460,Restaurant_97,Chinese,18.94,Weekday,4,31,25
+1479038,100968,Restaurant_35,Chinese,6.66,Weekend,Not given,20,15
+1479039,100472,Restaurant_13,Thai,22.98,Weekday,Not given,20,22
+1479040,100370,Restaurant_155,American,12.65,Weekday,Not given,29,15
+1479041,100900,Restaurant_144,Italian,20.79,Weekend,4,21,23
+1479042,100923,Restaurant_140,Mexican,20.48,Weekend,4,34,23
+1479043,100137,Restaurant_8,Indian,33.07,Weekend,5,21,24
+1479044,100367,Restaurant_151,Japanese,21.46,Weekday,Not given,20,25
