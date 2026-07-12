@@ -1,57 +1,124 @@
-# PGP-AIML-Projects
+# PGP-AIML Projects
 
-📘 Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications
+End-to-end Machine Learning and Deep Learning projects completed as part of a
+PG Program in AI & ML. Each project includes a full Jupyter notebook (EDA,
+modeling, evaluation, and business recommendations) along with a synthetic
+dataset that mirrors the real data's schema and statistics, so every notebook
+can be run and reviewed without exposing any real, proprietary, or
+confidential data.
 
-A curated journey of learning, projects, and practical implementations
+## Projects
 
-# About This Repository
+| # | Project | Domain | Techniques |
+|---|---|---|---|
+| 01 | [FoodHub Data Analysis](./01-foodhub-eda) | Food delivery / EDA | pandas, seaborn, exploratory data analysis |
+| 02 | [ReneWind](./02-renewind-neural-network) | Predictive maintenance | Neural networks (Keras/TensorFlow), class imbalance handling |
+| 03 | [HelmNet](./03-helmnet-cnn-classification) | Workplace safety / Computer vision | CNNs, transfer learning (VGG16), data augmentation |
+| 04 | [EasyVisa](./04-easyvisa-classification) | Immigration / Classification | Ensemble methods, SMOTE, hyperparameter tuning |
 
-This repository documents my learning journey and hands-on work as part of the Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications.
-It serves as a portfolio of the skills, concepts, and projects I’ve completed throughout the program — showcasing my readiness for AI/ML roles, data-driven problem-solving, and industry-focused applications.
+---
 
+### 01. FoodHub Data Analysis
 
-🎓 Program Overview
+Exploratory data analysis on a food-delivery order dataset (1,898 orders)
+using pandas, seaborn, and matplotlib to uncover customer ordering patterns,
+restaurant performance, and delivery-time trends, with business
+recommendations for a food-delivery platform.
 
-The Post Graduate Program in AI & ML: Business Applications focuses on:
+**Techniques:** univariate & multivariate analysis, groupby aggregation,
+correlation analysis, data visualization
 
-a) Core foundations in Python, statistics, and machine learning
+**Data:** synthetic dataset matching the real data's schema and statistics
+(see `generate_dummy_foodhub.py`)
 
-b) Applied AI techniques for business decision-making
+---
 
-c) Building and deploying models using real-world datasets
+### 02. ReneWind — Wind Turbine Failure Prediction
 
-d)  Understanding end-to-end ML pipelines, from data preparation to deployment
+Binary classification on imbalanced sensor data to predict wind-turbine
+generator failures before they happen. Compares 7 neural network
+architectures (Keras/TensorFlow) with class weighting, evaluating trade-offs
+between accuracy and recall in a cost-sensitive predictive-maintenance
+scenario.
 
-# Practical exposure to tools and frameworks like:
+**Techniques:** neural networks, class weighting, model comparison,
+threshold analysis
 
-1. Python, NumPy, Pandas
+**Data:** synthetic dataset matching the real data's schema, size, and class
+imbalance (see `generate_dummy_renewind.py`)
 
-2. Scikit-learn
+---
 
-3. TensorFlow / Keras
+### 03. HelmNet — Safety Helmet Detection
 
-4. Data visualization libraries
+Image classification system to detect whether workers are wearing safety
+helmets on construction/industrial sites. Compares a custom CNN trained from
+scratch against VGG16 transfer-learning variants with data augmentation.
 
-5. SQL
+**Techniques:** CNNs, transfer learning, data augmentation, model comparison
 
-6. Cloud-based ML workflows (optional modules)
+**Data:** synthetic placeholder images (not real workplace photos) matching
+the real dataset's size and class balance (see `generate_dummy_helmnet.py`)
 
-# Skills Gained
+---
 
-Throughout the program, I developed and strengthened skills in:
+### 04. EasyVisa — US Visa Application Classification
 
-1. Supervised & Unsupervised Learning
+Binary classification predicting whether a US work visa application will be
+certified or denied, based on applicant, employer, and wage attributes.
+Compares 6 ensemble classifiers across original, oversampled (SMOTE), and
+undersampled training data, with hyperparameter tuning via
+RandomizedSearchCV.
 
-2. Deep Learning Fundamentals
+**Techniques:** ensemble methods (Bagging, Random Forest, GBM, AdaBoost,
+XGBoost, Decision Tree), SMOTE/undersampling, RandomizedSearchCV,
+feature importance analysis
 
-3. Natural Language Processing
+**Data:** synthetic dataset matching the real data's schema and statistics
+(see `generate_dummy_easyvisa.py`)
 
-4. Model Evaluation & Optimization
+---
 
-5. Exploratory Data Analysis (EDA)
+## A note on the data
 
-6. Business Problem Framing & Solutioning
+None of the datasets in this repository contain real customer, employee,
+patient, or business data. Each project includes a `generate_dummy_*.py`
+script that produces a synthetic dataset matching the schema, size, and key
+statistics (class balance, value ranges, correlations) of the original real
+dataset used during coursework, so the notebooks can be run and reviewed by
+anyone without any privacy or confidentiality concerns.
 
-7. Model Deployment Strategies
+## Repo Structure
 
-8. Data Storytelling & Insights Communication
+```
+pgp-aiml-projects/
+├── README.md
+├── 01-foodhub-eda/
+│   ├── FoodHub_Data_Analysis.ipynb
+│   ├── generate_dummy_foodhub.py
+│   └── foodhub_order_DUMMY.csv
+├── 02-renewind-neural-network/
+│   ├── ReneWind_Neural_Network.ipynb
+│   ├── generate_dummy_renewind.py
+│   ├── Train_DUMMY.csv
+│   └── Test_DUMMY.csv
+├── 03-helmnet-cnn-classification/
+│   ├── HelmNet_CNN_Classification.ipynb
+│   ├── generate_dummy_helmnet.py
+│   ├── images_proj_DUMMY.npy
+│   └── Labels_proj_DUMMY.csv
+└── 04-easyvisa-classification/
+    ├── EasyVisa_Classification.ipynb
+    ├── generate_dummy_easyvisa.py
+    └── EasyVisa_DUMMY.csv
+```
+
+## Tools & Libraries
+
+Python · pandas · NumPy · scikit-learn · XGBoost · imbalanced-learn ·
+TensorFlow / Keras · seaborn · matplotlib
+
+## License
+
+Code and synthetic datasets in this repository are original work / generated
+data and are provided as-is for portfolio and educational purposes.
